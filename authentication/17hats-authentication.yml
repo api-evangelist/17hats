@@ -1,0 +1,61 @@
+generated: '2026-08-05'
+method: searched
+source: https://help.17hats.com/en/articles/2761371-zapier-integration
+docs: https://help.17hats.com/en/articles/2761371-zapier-integration
+api: 17hats partner integration API (no public reference published)
+summary: >-
+  17hats does not publish a public developer program, API reference or
+  machine-readable specification. The only programmatic credential 17hats
+  documents to its customers is an account-level API key, generated from
+  Account Settings > Integrations by enabling the Zapier section and copying the
+  key shown in the dialog. That key authenticates the 17hats Zapier app, whose
+  published surface is limited to contacts (triggers: New Contact, Updated
+  Contact; actions: Create Contact, Update Contact, Search Contact, Find or
+  Create Contact). 17hats does not document the request host, the header or
+  query parameter the key is presented in, an OAuth 2.0 or OpenID Connect flow,
+  scopes, token lifetimes, or key rotation. The transport-level details are
+  therefore UNKNOWN and are deliberately left unrecorded rather than guessed.
+schemes:
+- id: account-api-key
+  type: apiKey
+  in: unknown
+  name: unknown
+  required: true
+  issued_from: 17hats web app > Account Settings > Integrations > Zapier > Enable
+  description: >-
+    Static, account-scoped API key. Presented by the Zapier connector when
+    linking a 17hats account. 17hats publishes the key's existence and where to
+    obtain it, but not where it is placed on the wire — no public docs state a
+    header name, query parameter, or base URL. Recorded as in/name unknown
+    rather than assumed.
+  applies_to: the contact operations exposed through the Zapier connector
+  scope: whole account (no per-scope or per-resource restriction documented)
+oauth2: false
+openid_connect: false
+scopes_documented: false
+plan_gating:
+  note: >-
+    17hats documents the Zapier integration as available only on its newer
+    subscription plan, so the API key is plan-gated as well as account-gated.
+  source: https://help.17hats.com/en/articles/2761371-zapier-integration
+notes:
+- No public API reference, developer portal, or OpenAPI/Swagger/GraphQL/AsyncAPI
+  document exists for 17hats. Contract discovery (STEP 0b) probed the API host
+  root, docs host, GraphQL introspection, MCP tools/list and both A2A well-known
+  paths; all missed. See well-known/17hats-well-known.yml.
+- api.17hats.com and developer.17hats.com resolve only because *.17hats.com is a
+  wildcard catch-all; neither is a real API host. Do not treat either as a
+  baseURL.
+- The only machine-consumable description of the 17hats surface a third party can
+  read today is the Zapier app listing at
+  https://zapier.com/apps/17hats/integrations, which is Zapier's document, not
+  17hats'.
+x-evidence:
+- url: https://help.17hats.com/en/articles/2761371-zapier-integration
+  http_status: 200
+  fetched: '2026-08-05'
+  finding: API key location + contacts-only scope
+- url: https://zapier.com/apps/17hats/integrations
+  http_status: 200
+  fetched: '2026-08-05'
+  finding: 2 triggers + 4 actions, all Contacts

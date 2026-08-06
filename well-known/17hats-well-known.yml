@@ -1,0 +1,96 @@
+generated: '2026-08-05'
+method: searched
+description: >-
+  Results of probing the /.well-known/ discovery surface for every 17hats host
+  reachable from apis.yml. 17hats publishes no apis[] entry and no OpenAPI
+  servers[], so the probe targeted the marketing/app host (www.17hats.com), the
+  Intercom-hosted help centre (help.17hats.com), and the two subdomains a
+  developer would guess (api., developer.). Status is the HTTP code observed at
+  fetch time.
+
+  IMPORTANT — 17hats.com runs a WILDCARD DNS catch-all. Every *.17hats.com
+  label, including labels that do not exist, resolves and answers HTTP 302 to
+  /portal/ with the identical 17hats app shell. api.17hats.com,
+  developer.17hats.com and status.17hats.com are therefore FALSE POSITIVES for
+  "host exists": a control probe of nonexistent-xyz123.17hats.com returned a
+  byte-identical response (same <title>17hats</title>, same nginx/AWS ALB
+  headers). None of them is a distinct API host, developer portal or status
+  page, and none is recorded as one.
+
+  www.17hats.com answers every unknown /.well-known/* path with HTTP 404 and the
+  body "Invalid .well-known request" — a correct, honest 404, not a catch-all.
+
+  The only /.well-known/security.txt that returned 200 anywhere on the domain is
+  at help.17hats.com, and it is NOT 17hats'. It is Intercom's own security.txt,
+  served because the help centre is Intercom-hosted; its Canonical field is
+  https://app.intercom.com/.well-known/security.txt and its Contact is
+  security@intercom.com / bugcrowd.com/intercom. It is recorded here as
+  third-party and is deliberately NOT saved as a 17hats artifact and NOT wired
+  as a SecurityTxt pointer — attributing a vendor's disclosure policy to 17hats
+  would misstate 17hats' security posture. 17hats' real vulnerability-disclosure
+  surface is the human page at https://www.17hats.com/security, captured in
+  security/17hats-vulnerability-disclosure.yml.
+hosts:
+- host: https://www.17hats.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+  - path: /.well-known/openid-configuration
+    status: 404
+  - path: /.well-known/oauth-authorization-server
+    status: 404
+  - path: /.well-known/api-catalog
+    status: 404
+  - path: /.well-known/ai-plugin.json
+    status: 404
+  - path: /.well-known/agent-card.json
+    status: 404
+  - path: /.well-known/agent.json
+    status: 404
+- host: https://help.17hats.com
+  note: Intercom-hosted help centre; documents served here belong to Intercom, not 17hats.
+  documents:
+  - path: /.well-known/security.txt
+    status: 200
+    type: text/plain
+    owner: Intercom
+    canonical: https://app.intercom.com/.well-known/security.txt
+    contact: security@intercom.com
+    saved: false
+    reason: >-
+      Third-party (Intercom) security.txt served by the help-centre vendor. Not a
+      17hats-published document; not saved and not wired as SecurityTxt.
+  - path: /.well-known/agent-card.json
+    status: 404
+  - path: /llms.txt
+    status: 200
+    type: text/plain
+    file: ../llms/17hats-llms.txt
+    note: >-
+      Real llms.txt for the 17hats Help Center (Intercom auto-generates the file,
+      but the content is 17hats' own help articles). Saved verbatim.
+wildcard_control_probe:
+  description: >-
+    Control probe proving *.17hats.com is a wildcard catch-all, so a 200 on any
+    subdomain is not evidence that the subdomain is a real distinct service.
+  probes:
+  - url: https://api.17hats.com/
+    status: 302
+    redirect: https://api.17hats.com/portal/
+    body: 17hats app shell
+  - url: https://developer.17hats.com/
+    status: 302
+    redirect: https://developer.17hats.com/portal/
+    body: 17hats app shell
+  - url: https://status.17hats.com/
+    status: 302
+    redirect: https://status.17hats.com/portal/
+    body: 17hats app shell
+  - url: https://nonexistent-xyz123.17hats.com/
+    status: 302
+    redirect: https://nonexistent-xyz123.17hats.com/portal/
+    body: 17hats app shell
+    note: CONTROL — this label does not exist, yet answers identically.
+  conclusion: >-
+    api., developer. and status. are indistinguishable from a hostname that does
+    not exist. No API host, no developer portal, no status page.

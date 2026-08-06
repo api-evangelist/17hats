@@ -1,17 +1,34 @@
 aid: 17hats
 name: 17hats
-description: '17hats is a company surfaced via the API Evangelist harvest backlog (source: secondary-market)
-  and added to the network as a stub for full-pipeline profiling.'
+description: '17hats is an all-in-one CRM and business-management platform for service-based
+  small businesses and solopreneurs, built around the idea that a one-person business
+  wears seventeen hats. The platform combines lead capture, client pipelines, contact
+  and project management, online scheduling, quotes, contracts and e-signature, questionnaires,
+  invoicing and online payments, bookkeeping, email and SMS texting, and workflow automation
+  into a single subscription product. 17hats states it serves more than 25,000 business
+  owners across 100+ industries, including photographers, designers, coaches, planners
+  and other service providers. 17hats does not publish a public developer program,
+  API reference, or machine-readable specification; its only documented programmatic
+  surface is an account-level API key issued from Account Settings > Integrations that
+  authenticates its Zapier app, which exposes contact triggers and actions only.'
+image: https://cdn.prod.website-files.com/5fb453e0437ba3e5108c7389/63409b6c8c1d69fa92f3339b_17hats-SocialShare-2022-HomePage.png
 url: https://raw.githubusercontent.com/api-evangelist/17hats/refs/heads/main/apis.yml
 x-type: company
 x-source: harvest:secondary-market
-x-tier: stub
-x-tier-reason: harvest
 specificationVersion: '0.20'
 created: '2026-08-05'
 modified: '2026-08-05'
 tags:
 - Company
+- CRM
+- Small Business
+- Invoicing
+- Scheduling
+- Bookkeeping
+- Workflow Automation
+- Contract Management
+- Payments
+- SaaS
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -19,5 +36,66 @@ maintainers:
 - FN: APIs.json
   email: info@apis.io
 common:
+- type: VulnerabilityDisclosure
+  url: security/17hats-vulnerability-disclosure.yml
+- type: Security
+  url: https://www.17hats.com/security
+- type: DomainSecurity
+  url: security/17hats-domain-security.yml
+- type: Authentication
+  url: authentication/17hats-authentication.yml
+- type: LLMsTxt
+  url: llms/17hats-llms.txt
 - type: Website
-  url: https://www.nasdaqprivatemarket.com/
+  url: https://www.17hats.com/
+- type: About
+  url: https://www.17hats.com/about
+- type: Documentation
+  url: https://help.17hats.com/
+- type: Support
+  url: https://help.17hats.com/
+- type: GettingStarted
+  url: https://help.17hats.com/en/articles/3110556-what-is-17hats
+- type: Blog
+  url: https://blog.17hats.com/
+- type: GitHubOrganization
+  url: https://github.com/17hats
+- type: Pricing
+  url: https://www.17hats.com/pricing
+- type: SignUp
+  url: https://www.17hats.com/sign-up
+- type: Login
+  url: https://www.17hats.com/loginredirect
+- type: TermsOfService
+  url: https://www.17hats.com/terms-conditions
+- type: PrivacyPolicy
+  url: https://www.17hats.com/privacy-policy
+- type: Integrations
+  url: https://www.17hats.com/integrations
+x-enrichment:
+  date: '2026-08-05'
+  status: minimal
+  artifacts_added: 5
+  pass: local-v1
+x-coverage:
+  state: gated
+  reason: marketplace-only
+  detail: >-
+    17hats' only programmatic surface is an account API key issued from Account
+    Settings > Integrations that authenticates its Zapier connector (2 contact
+    triggers, 4 contact actions) — there is no 17hats-hosted API reference, and
+    api.17hats.com / developer.17hats.com only answer because *.17hats.com is a
+    wildcard catch-all that returns the same app shell for a hostname that does
+    not exist.
+  evidence:
+  - url: https://help.17hats.com/en/articles/2761371-zapier-integration
+    status: 200
+  - url: https://zapier.com/apps/17hats/integrations
+    status: 200
+  - url: https://www.17hats.com/openapi.json
+    status: 404
+  - url: https://www.17hats.com/.well-known/api-catalog
+    status: 404
+  - url: https://nonexistent-xyz123.17hats.com/
+    status: 302
+  checked: '2026-08-05'

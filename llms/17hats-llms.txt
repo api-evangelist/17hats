@@ -1,0 +1,472 @@
+# 17hats Help Center
+
+> Help center for 17hats
+
+## Getting Started with 17hats
+
+- [What is 17hats?](http://help.17hats.com/en/articles/3110556-what-is-17hats.md): New to 17hats or considering using the platform for your business needs? Find out what 17hats can do for you!
+- [Where do I go for Help?](http://help.17hats.com/en/articles/3149409-where-do-i-go-for-help.md): Learn how you can contact 17hats for further help!
+- [17hats Terminology](http://help.17hats.com/en/articles/3388927-17hats-terminology.md): A guide to some of the most commonly-used terms in 17hats
+- [Tour of 17hats](http://help.17hats.com/en/articles/3110578-tour-of-17hats.md): Learn where each feature of 17hats lives
+- [17hats Dashboard](http://help.17hats.com/en/articles/3110596-17hats-dashboard.md): Find out what's included on the 17hats Dashboard, or overview page.
+- [Contact Types](http://help.17hats.com/en/articles/3110603-contact-types.md): What are the contact types in 17hats and how are they used?
+- [Adding Contacts to 17hats](http://help.17hats.com/en/articles/3110621-adding-contacts-to-17hats.md): Learn the four ways to add contacts to your 17hats account.
+- [17hats Projects](http://help.17hats.com/en/articles/3110631-17hats-projects.md): Learn what projects are used for and how to add and switch between them.
+- [Project Overview](http://help.17hats.com/en/articles/3110647-project-overview.md): What is and how do I navigate my contacts Project Overview screen?
+- [17hats Documents & Emails](http://help.17hats.com/en/articles/3110651-17hats-documents-emails.md): Learn the types of documents and emails you can create within 17hats
+- [Notification History Alerts](http://help.17hats.com/en/articles/15627601-notification-history-alerts.md): Use Notification History to get back to recent updates like new leads, signed contracts, paid invoices, answered questionnaires, bookings, and other account activity.
+- [My Account Settings](http://help.17hats.com/en/articles/3110667-my-account-settings.md): Learn how to update your Account Settings
+- [Brand Preference Page Overview](http://help.17hats.com/en/articles/3110675-brand-preference-page-overview.md): What can I update within my Brand Preferences page in 17hats?
+- [Brand Preferences - Account Tab](http://help.17hats.com/en/articles/3110791-brand-preferences-account-tab.md): How to update the internal look of your 17hats account and customize the URL for Client facing materials.
+- [Brand Preferences - Images Tab](http://help.17hats.com/en/articles/3110802-brand-preferences-images-tab.md)
+- [Brand Preferences - Colors & Fonts Tab](http://help.17hats.com/en/articles/3110814-brand-preferences-colors-fonts-tab.md): Learn how to change the font color and type of all Documents.
+- [Brand Preferences - Text Tab](http://help.17hats.com/en/articles/3110824-brand-preferences-text-tab.md): Learn how to update text throughout your materials.
+- [Email Communication Overview](http://help.17hats.com/en/articles/3110832-email-communication-overview.md): Learn how email communication works within 17hats.
+- [Email Sync Setup & Use](http://help.17hats.com/en/articles/2548572-email-sync-setup-use.md): This article will guide you through connecting your email accounts to view emails and being receiving and sending email with 17hats.
+- [Email Settings - Email Signature Tab](http://help.17hats.com/en/articles/840404-email-settings-email-signature-tab.md): Learn how to setup email signatures within your account settings
+- [Document Email Reminders](http://help.17hats.com/en/articles/2280471-document-email-reminders.md): Learn how to customize automatic email reminders for upcoming and past due documents.
+- [Calendar Overview](http://help.17hats.com/en/articles/894193-calendar-overview.md): How to set up your calendars in 17hats
+- [Recommended Calendar Setup](http://help.17hats.com/en/articles/3112379-recommended-calendar-setup.md): Learn what calendars we suggest creating or connecting in your 17hats account.
+- [Bookkeeping Overview](http://help.17hats.com/en/articles/3112838-bookkeeping-overview.md): Learn how the 17hats Bookkeeping feature works and how to connect your bank accounts.
+- [Money Matters - Invoice Options](http://help.17hats.com/en/articles/924380-money-matters-invoice-options.md): Learn where and how to update the invoice options that affect all invoices.
+- [Money Matters - Connecting Your Bank Account](http://help.17hats.com/en/articles/928589-money-matters-connecting-your-bank-account.md): Learn how to connect your bank account to automatically import recent transactions.
+- [Money Matters - Tax Settings Page](http://help.17hats.com/en/articles/2673313-money-matters-tax-settings-page.md): Learn how to add a tax rate and apply them quotes and invoices.
+- [Money Matters - Products & Services](http://help.17hats.com/en/articles/849333-money-matters-products-services.md): Adding and managing Products and Services in your Account Settings
+- [Recommended Processes Overview](http://help.17hats.com/en/articles/3113033-recommended-processes-overview.md): Learn how to get the most out of 17hats and automate your Client Experience!
+- [Lead Management Process Overview](http://help.17hats.com/en/articles/3113059-lead-management-process-overview.md): Learn how to organize and automate your Client Experience for potential customers and new Leads.
+- [Booking Process Overview](http://help.17hats.com/en/articles/3113115-booking-process-overview.md): Learn how to take qualified leads and turn them into a paying Client faster with a workflow and a combined document.
+- [Onboarding Process Overview](http://help.17hats.com/en/articles/3113129-onboarding-process-overview.md): Learn the best way to automate your Client Experience once you've been paid.
+- [Fulfillment Process Overview](http://help.17hats.com/en/articles/3113154-fulfillment-process-overview.md): Learn how to automate the tasks you complete to prepare, execute, and deliver your product or service.
+- [Switching From Sprout Studio to 17hats](http://help.17hats.com/en/articles/9363325-switching-from-sprout-studio-to-17hats.md): This article demonstrates the simple process of moving your account from Sprout Studio to 17hats!
+- [Onboarding From Another CRM | Start Here](http://help.17hats.com/en/articles/10446956-onboarding-from-another-crm-start-here.md): This article details the process of onboarding from another CRM. From transferring Contacts to adding Templates. Let's move over to 17hats.
+- [Onboarding | Step 1\) Set Up Your New 17hats Account](http://help.17hats.com/en/articles/10447114-onboarding-step-1-set-up-your-new-17hats-account.md): When moving from another CRM, the first thing we want to do is set up your 17hats Account-- this also follows a process.
+- [Onboarding | Step 2\) Moving your Clients to 17hats](http://help.17hats.com/en/articles/10450504-onboarding-step-2-moving-your-clients-to-17hats.md): When it comes to moving your clients over from another CRM, 17hats has you covered! Follow the steps below for an easy transition.
+- [Onboarding | Step 3\) Moving your Templates to 17hats](http://help.17hats.com/en/articles/10450521-onboarding-step-3-moving-your-templates-to-17hats.md): When it comes to moving your template over from another CRM, 17hats has you covered! Follow the steps below for an easy transition.
+- [Onboarding | Step 4\) Setting Up Advanced Features](http://help.17hats.com/en/articles/10450525-onboarding-step-4-setting-up-advanced-features.md): 17hats is widely known for it's advanced set of features. In this article, we'll dive into the most popular of the "Advanced" features.
+
+## Video Tutorials & Webinar Replays
+
+- [Webinar Replay List](http://help.17hats.com/en/articles/3006713-webinar-replay-list.md): Here you will find replays of past webinars and links to future webinars
+- [Video: Writing and Signing Contracts](http://help.17hats.com/en/articles/982447-video-writing-and-signing-contracts.md)
+- [Video: Building and Sending Invoices](http://help.17hats.com/en/articles/1031176-video-building-and-sending-invoices.md): Generate professional invoices and get paid online \(and on time!\) with this video showing how to set up and send invoices
+- [Video: Recurring Invoices](http://help.17hats.com/en/articles/1031263-video-recurring-invoices.md): Automate the sending of invoices on a regular frequency to your clients with customizable options for recurrence length and amount.
+- [Video: Scheduled Payments](http://help.17hats.com/en/articles/1031253-video-scheduled-payments.md): Add flexible scheduled payments to your invoices with a variety of customizable options.
+- [Video: Bookkeeping and Reporting](http://help.17hats.com/en/articles/1031202-video-bookkeeping-and-reporting.md): Ensure all your records are ready for your accountant. This video will walk you through the basics of setting up and using bookkeeping
+- [Video: Quickbooks Online Integration](http://help.17hats.com/en/articles/1031236-video-quickbooks-online-integration.md): Connect your Quickbooks Online Account to 17hats and then invoice and payments will be synced automatically!
+- [Export your Client and Product Sales Reports as a CSV File](http://help.17hats.com/en/articles/9231084-export-your-client-and-product-sales-reports-as-a-csv-file.md): Learn how to export your Client or Product Sales Reports from 17hats Bookkeeping as a spreadsheet
+- [Video: Email Sync Setup & Use](http://help.17hats.com/en/articles/982732-video-email-sync-setup-use.md)
+- [Video: Connecting Your Google Calendar](http://help.17hats.com/en/articles/1031196-video-connecting-your-google-calendar.md): Sync your 17hats account with your Google Calendar to sync your schedule across your devices.
+- [Video: Lead Overview](http://help.17hats.com/en/articles/1031239-video-lead-overview.md): View all your leads and lead related activity in one spot. This video will walk you through the Lead Overview screen and its functionality.
+- [Video: Building Lead Capture Forms](http://help.17hats.com/en/articles/1031140-video-building-lead-capture-forms.md): Automate the population of leads into 17hats and responds to leads quicker.
+- [Video: Email Lead Capture Set Up](http://help.17hats.com/en/articles/1031270-video-email-lead-capture-set-up.md): Automate the population of leads into 17hats from heknot.com, weddingwire.com and showitfast.com and respond to leads quicker.
+- [Video: Installing Lead Capture Forms](http://help.17hats.com/en/articles/1498653-video-installing-lead-capture-forms.md)
+- [Video: Project Overview](http://help.17hats.com/en/articles/1031249-video-project-overview.md): View all the information about your project in one place. This video walks you through the project overview screen and its functionality.
+- [Video: Project Lifecycles](http://help.17hats.com/en/articles/1031241-video-project-lifecycles.md): Learn how to set up your Lifecycles and track your leads and clients as they move through the stages of your Lifecycle.
+- [Video: Client Portal](http://help.17hats.com/en/articles/1377036-video-client-portal.md): Step-by-step instructions on how to set up and use Client Portal
+- [Video: Using Time Tracking](http://help.17hats.com/en/articles/1031277-video-using-time-tracking.md): Track time and easily invoice your clients with a single click. This video shows you how to setup time tracking and use it effectively.
+- [Video: Creating and Using Templates](http://help.17hats.com/en/articles/982727-video-creating-and-using-templates.md)
+- [Video: Templates](http://help.17hats.com/en/articles/1030716-video-templates.md): How to create, edit, and view templates in 17hats
+- [Video: Shared Templates](http://help.17hats.com/en/articles/1442661-video-shared-templates.md): Instructions on how to set up and use Shared Templates
+- [Video: Workflow Walkthrough](http://help.17hats.com/en/articles/1031212-video-workflow-walkthrough.md): Stay on top of your work and automate repetitive tasks with workflows. This video will guide you through building and using workflows.
+
+## General
+
+- [17hats Vocabulary](http://help.17hats.com/en/articles/3388289-17hats-vocabulary.md): A guide to some of the most commonly-used terms in 17hats
+- [How do I contact 17hats?](http://help.17hats.com/en/articles/3149244-how-do-i-contact-17hats.md): Learn how you can get in touch with 17hats!
+- [What currencies does 17hats support?](http://help.17hats.com/en/articles/927251-what-currencies-does-17hats-support.md)
+- [Find Your 17hats Subscription Receipts](http://help.17hats.com/en/articles/15675422-find-your-17hats-subscription-receipts.md): How to find your payments to 17hats
+- [How do I add and use Linked Brands?](http://help.17hats.com/en/articles/843598-how-do-i-add-and-use-linked-brands.md): Getting Started with multi-brand/accounts through linked brands
+- [How do I delete or remove a linked brand/account?](http://help.17hats.com/en/articles/2725863-how-do-i-delete-or-remove-a-linked-brand-account.md): Learn now to delete/remove a linked brand/account here.
+- [Client Portal Overview](http://help.17hats.com/en/articles/1131267-client-portal-overview.md): Learn more about sharing documents in bulk with the Client Portal
+- [Client Portal - Customizing Your Global Settings](http://help.17hats.com/en/articles/3160018-client-portal-customizing-your-global-settings.md): Learn how to update the Client Portal for ALL contacts
+- [Client Portal - Customizing per Contact](http://help.17hats.com/en/articles/3160024-client-portal-customizing-per-contact.md): Learn how to customize a specific contacts Client Portal
+- [Client Portal - Giving Contacts Access](http://help.17hats.com/en/articles/3160537-client-portal-giving-contacts-access.md): Learn the various ways to give your contacts access to their very own client portal!
+- [All About "To-Do" Tasks](http://help.17hats.com/en/articles/2841749-all-about-to-do-tasks.md): Learn how to add To-Do's and where due & past due To-Do tasks live
+- [Quick Look Sidebar](http://help.17hats.com/en/articles/2679668-quick-look-sidebar.md): Quick and easy access to Calendar events, To Dos and the 17hats Setup Guide
+- [Recent Client Activity](http://help.17hats.com/en/articles/2679659-recent-client-activity.md): Review and filter all of your client's document activity in one spot
+- [Custom Fields](http://help.17hats.com/en/articles/2545832-custom-fields.md): Learn how to add custom fields into 17hats, and get answers to common questions about this new feature
+- [Complete List of Tokens](http://help.17hats.com/en/articles/1235598-complete-list-of-tokens.md)
+- [Time Tracking](http://help.17hats.com/en/articles/861657-time-tracking.md): How do I use time tracking within 17hats?
+- [Tag Feature Overview](http://help.17hats.com/en/articles/3196308-tag-feature-overview.md): Learn the types of tags you can create and where to find them
+- [Staying Organized in 17hats](http://help.17hats.com/en/articles/962094-staying-organized-in-17hats.md): Learn about the various ways 17hats can help you combat one of the biggest pain points of running a business - staying organized
+- [How-To: Download Conversation History from Intercom](http://help.17hats.com/en/articles/2478527-how-to-download-conversation-history-from-intercom.md): Saving your Intercom chats for future reference
+- [How can I check the status of the 17hats website?](http://help.17hats.com/en/articles/924370-how-can-i-check-the-status-of-the-17hats-website.md)
+- [17hats Facebook User Group History](http://help.17hats.com/en/articles/927645-17hats-facebook-user-group-history.md)
+- [Troubleshooting Errors](http://help.17hats.com/en/articles/948572-troubleshooting-errors.md): Learn how to get additional information the Business Support Team can use when troubleshooting errors
+- [How to clear 17hats cookies from your web browser](http://help.17hats.com/en/articles/843913-how-to-clear-17hats-cookies-from-your-web-browser.md): A first-line solution to almost any problem
+- [How will 17hats subscription charges appear on my credit card statement?](http://help.17hats.com/en/articles/925557-how-will-17hats-subscription-charges-appear-on-my-credit-card-statement.md)
+- [What is 17hats refund/cancellation policy?](http://help.17hats.com/en/articles/925563-what-is-17hats-refund-cancellation-policy.md)
+- [How do I cancel my account?](http://help.17hats.com/en/articles/925562-how-do-i-cancel-my-account.md)
+
+## Account Settings
+
+- [Products and Services - Internal and Display Names](http://help.17hats.com/en/articles/4120797-products-and-services-internal-and-display-names.md)
+- [Tag Management in 17hats](http://help.17hats.com/en/articles/6236261-tag-management-in-17hats.md): Manage your Project and Contact Tags in 17hats
+- [Default Calendar Setting](http://help.17hats.com/en/articles/3598112-default-calendar-setting.md)
+- [Restore recently deleted Contacts and Projects](http://help.17hats.com/en/articles/9015398-restore-recently-deleted-contacts-and-projects.md): Learn how to restore Contacts and Projects deleted within the last 30 days
+- [Account Settings Overview](http://help.17hats.com/en/articles/3156330-account-settings-overview.md): Learn what you can access within your Account Settings
+- [Account Settings - Brand Preference Page Overview](http://help.17hats.com/en/articles/2108661-account-settings-brand-preference-page-overview.md): Find out what you can update within the Brand Preferences page in 17hats
+- [Domain Setting](http://help.17hats.com/en/articles/927442-domain-setting.md): What is the domain setting and how do I change it?
+- [How to Change my Login Email or Password](http://help.17hats.com/en/articles/1914814-how-to-change-my-login-email-or-password.md): See how to quickly change your login email or password to your 17hats account
+- [Lifecycles](http://help.17hats.com/en/articles/923689-lifecycles.md): Learn how to use Lifecycles and add them to projects.
+- [How Do I Customize the Button on Client-Facing Forms?](http://help.17hats.com/en/articles/927637-how-do-i-customize-the-button-on-client-facing-forms.md)
+- [Why is my weather not showing?](http://help.17hats.com/en/articles/928585-why-is-my-weather-not-showing.md)
+- [What is BCC email?](http://help.17hats.com/en/articles/927630-what-is-bcc-email.md)
+- [Where do I upload my logo?](http://help.17hats.com/en/articles/849312-where-do-i-upload-my-logo.md): Learn how to upload your company's logo into 17hats
+- [Why is my logo not updating?](http://help.17hats.com/en/articles/849286-why-is-my-logo-not-updating.md)
+
+## Lead Capture
+
+- [Disable Lead Capture Forms](http://help.17hats.com/en/articles/6581237-disable-lead-capture-forms.md): Disable Lead Capture Forms to prevent them being filled out
+- [Global Header Images for Lead Capture Forms](http://help.17hats.com/en/articles/6882322-global-header-images-for-lead-capture-forms.md): Add a global header image to Lead Capture Forms in 17hats
+- [Overview of Lead Source Reporting in 17hats](http://help.17hats.com/en/articles/7336856-overview-of-lead-source-reporting-in-17hats.md): Track Lead Sources inside 17hats on Standard and Premier Membership Levels.
+- [17hats Lead Capture Form: Facebook](http://help.17hats.com/en/articles/849977-17hats-lead-capture-form-facebook.md): Installing a Lead Capture Form to your Facebook Page
+- [Customizing Header Images for Lead Capture Forms](http://help.17hats.com/en/articles/6882340-customizing-header-images-for-lead-capture-forms.md): Add a different header image to each Lead Capture Form
+- [Lead Source Reporting in 17hats with Lead Capture Forms](http://help.17hats.com/en/articles/7336622-lead-source-reporting-in-17hats-with-lead-capture-forms.md): On Standard and Premier plans, track the sources providing you with leads in 17hats to help focus your sales and marketing.
+- [Lead Capture Form Question Types](http://help.17hats.com/en/articles/10167140-lead-capture-form-question-types.md): Learn about the different types of questions you can include on a Lead Capture Form
+- [Lead Overview: Lead Capture, Lead Overview Page](http://help.17hats.com/en/articles/928565-lead-overview-lead-capture-lead-overview-page.md): Navigating the Lead Overview Page, Lead Capture Wizard, Manually adding leads, and adding Lead Capture Forms to Facebook and Websites
+- [Lead Capture Forms Overview](http://help.17hats.com/en/articles/853251-lead-capture-forms-overview.md): Learn the different types of Lead Capture Forms that can be used in 17hats.
+- [Lead Capture Forms - Building your First LCF](http://help.17hats.com/en/articles/3113231-lead-capture-forms-building-your-first-lcf.md): Learn how to build your first Lead Capture Form \(LCF\)
+- [Lead Capture Email Setup](http://help.17hats.com/en/articles/3114074-lead-capture-email-setup.md): How to setup a Lead Capture email rule for WeddingWire, TheKnot.com, and ShowitFast websites.
+- [Email Lead Capture Form Details](http://help.17hats.com/en/articles/2823021-email-lead-capture-form-details.md): Learn how to customize the form details for each of your Email Lead Capture Forms.
+- [Lead Capture Form Details](http://help.17hats.com/en/articles/3113718-lead-capture-form-details.md): Learn how to setup notifications, set the calendar your lead projects populate to and more!
+- [Manually Adding Leads](http://help.17hats.com/en/articles/2509970-manually-adding-leads.md): Follow these steps when adding a new lead internally into 17hats
+- [Installing Your Lead Capture Form](http://help.17hats.com/en/articles/2795306-installing-your-lead-capture-form.md): Want to add your Lead Capture Form to your website? Find out more here
+- [Installing your Lead Capture Form on your Facebook, LinkedIn Business, or other social networking page?](http://help.17hats.com/en/articles/1788022-installing-your-lead-capture-form-on-your-facebook-linkedin-business-or-other-social-networking-page.md): Follow these steps to direct your Facebook, LinkedIn Business, or other social networking leads to your 17hats Lead Capture Form
+- [Adding Your Lead Capture Form to Facebook Messenger](http://help.17hats.com/en/articles/2865468-adding-your-lead-capture-form-to-facebook-messenger.md)
+- [How to embed Lead Capture Forms to Squarespace](http://help.17hats.com/en/articles/1698392-how-to-embed-lead-capture-forms-to-squarespace.md): Learn the steps to add your Lead Capture Form to your Squarespace website.
+- [Why is my Lead Capture Form not appearing correctly on my website?](http://help.17hats.com/en/articles/923888-why-is-my-lead-capture-form-not-appearing-correctly-on-my-website.md)
+- [How to Reconnect WeddingWire, TheKnot.com, or your ShowitFast Website Lead Capture Email Form](http://help.17hats.com/en/articles/3148501-how-to-reconnect-weddingwire-theknot-com-or-your-showitfast-website-lead-capture-email-form.md): Learn how to reconnect your Lead Capture Email if your incoming email address stops syncing
+- [Lead Capture Auto-Replies](http://help.17hats.com/en/articles/1131025-lead-capture-auto-replies.md): When do they send? What to do for second/third forms that require an auto-response
+- [Automated Lead Workflows](http://help.17hats.com/en/articles/840255-automated-lead-workflows.md): A workflow may be triggered as soon as the new lead comes in from your lead capture form.
+- [Send Automated Invoices using Lead Capture Forms and Workflows](http://help.17hats.com/en/articles/2198457-send-automated-invoices-using-lead-capture-forms-and-workflows.md): A great way to send automated invoices for fixed packages
+- [How do I edit the colors in my Lead Capture Form?](http://help.17hats.com/en/articles/839946-how-do-i-edit-the-colors-in-my-lead-capture-form.md): Edit Lead Capture Form Colors
+- [How do tags work within the Lead Capture Form?](http://help.17hats.com/en/articles/844611-how-do-tags-work-within-the-lead-capture-form.md)
+- [Adding a Consent Checkbox](http://help.17hats.com/en/articles/1944251-adding-a-consent-checkbox.md): Adding a checkbox to your Lead Capture Forms and Questionnaires is quick and easy!
+- [How do I mass share a 17hats document?](http://help.17hats.com/en/articles/1817288-how-do-i-mass-share-a-17hats-document.md): We'll walk you through how to share a 17hats document with a group of people so that everyone can fill out their own copies
+- [ShowItFast Lead Capture Form Fields](http://help.17hats.com/en/articles/839837-showitfast-lead-capture-form-fields.md): What fields are mapped to new Leads when using ShowItFast \(Lead Capture Email\)?
+- [What does it mean to add a Lead Capture Form to an existing lead project?](http://help.17hats.com/en/articles/843169-what-does-it-mean-to-add-a-lead-capture-form-to-an-existing-lead-project.md): Adding a LCF once a project is already created
+
+## Online Scheduling
+
+- [Online Scheduling - Service Booking Questions](http://help.17hats.com/en/articles/6837367-online-scheduling-service-booking-questions.md): Ask questions during the booking process of Online Scheduling
+- [Online Scheduling - Customizing Header Images per Online Scheduling Availability Schedule](http://help.17hats.com/en/articles/6800159-online-scheduling-customizing-header-images-per-online-scheduling-availability-schedule.md): Add a different header image to each Availability Schedule in Online Scheduling
+- [Online Scheduling - Header Images](http://help.17hats.com/en/articles/6798211-online-scheduling-header-images.md): Add a global header image to Online Scheduling in 17hats
+- [Online Scheduling Service - Automatic Email Reminders](http://help.17hats.com/en/articles/4901233-online-scheduling-service-automatic-email-reminders.md): Automatically send email reminders for Online Scheduling bookings one day before and the day of the booking time.
+- [Lead Source Reporting in 17hats with Online Scheduling](http://help.17hats.com/en/articles/7336815-lead-source-reporting-in-17hats-with-online-scheduling.md): On Standard and Premier plans, track the sources providing you with leads in 17hats to help focus your sales and marketing.
+- [Online Scheduling Payments](http://help.17hats.com/en/articles/3980157-online-scheduling-payments.md)
+- [Online Scheduling - Service Time Frame](http://help.17hats.com/en/articles/9893901-online-scheduling-service-time-frame.md)
+- [Online Scheduling Service Locations](http://help.17hats.com/en/articles/9893949-online-scheduling-service-locations.md): Learn how to create Location templates for Online Scheduling
+- [Online Scheduling Service - Booking Messaging](http://help.17hats.com/en/articles/9893997-online-scheduling-service-booking-messaging.md)
+- [Online Scheduling Services - Project Management](http://help.17hats.com/en/articles/9894024-online-scheduling-services-project-management.md)
+- [Online Scheduling Service - Approval Settings](http://help.17hats.com/en/articles/9894043-online-scheduling-service-approval-settings.md)
+- [Online Scheduling Services - Confirmation & Cancellation Settings](http://help.17hats.com/en/articles/9904227-online-scheduling-services-confirmation-cancellation-settings.md): Learn how to setup your Confirmation and Cancellation Settings for Online Scheduling Services
+- [Online Scheduling Availability - Multiple Services on one Schedule](http://help.17hats.com/en/articles/9904320-online-scheduling-availability-multiple-services-on-one-schedule.md): Learn how to add multiple services onto one availability schedule.
+- [Online Scheduling - Team Members](http://help.17hats.com/en/articles/9904365-online-scheduling-team-members.md): Learn how to add team members to your availability schedule in Online Scheduling
+- [Online Scheduling - Calendar Checks](http://help.17hats.com/en/articles/9904377-online-scheduling-calendar-checks.md): How to create calendar checks in Online Scheduling Availability
+- [Online Scheduling Groups: From Workaround to New Feature](http://help.17hats.com/en/articles/9966962-online-scheduling-groups-from-workaround-to-new-feature.md): Update your Online Schedule Service for the release of Online Scheduling Groups
+- [Online Scheduling: Availability Rules](http://help.17hats.com/en/articles/9967692-online-scheduling-availability-rules.md): Your Availability Rules define when a person can book with you.
+- [Online Scheduling Groups](http://help.17hats.com/en/articles/9967753-online-scheduling-groups.md): 17hats Online Scheduling Groups allow for multiple bookings in one time slot.
+- [Online Scheduling Service - Workflows](http://help.17hats.com/en/articles/2933608-online-scheduling-service-workflows.md): Learn how to setup Workflows to enhance our Online Scheduling Feature
+- [Zoom Integration](http://help.17hats.com/en/articles/4124528-zoom-integration.md): Integrate Zoom meetings with 17hats Online Scheduling
+- [Online Scheduling: When to create additional Availability Schedules](http://help.17hats.com/en/articles/3332262-online-scheduling-when-to-create-additional-availability-schedules.md): Learn when to create more than one Availability Schedule instead of adding additional Services to one Schedule.
+- [Online Scheduling: Adding Your Availability Calendar to Facebook](http://help.17hats.com/en/articles/3240706-online-scheduling-adding-your-availability-calendar-to-facebook.md)
+- [Meta Pixel Tracking in 17hats Online Scheduling](http://help.17hats.com/en/articles/12622614-meta-pixel-tracking-in-17hats-online-scheduling.md): Add your Meta Pixel to your 17hats Online Scheduling Service to track key interactions.
+- [How to Change the Location of an Online Scheduling Booking](http://help.17hats.com/en/articles/13852728-how-to-change-the-location-of-an-online-scheduling-booking.md): Edit the location of an existing Online Scheduling Booking
+- [Online Scheduling: Start here!](http://help.17hats.com/en/articles/2912511-online-scheduling-start-here.md): Learn the basics of the 17hats Online Scheduling Feature
+- [Online Scheduling: Setup Part 1 - Create your Services](http://help.17hats.com/en/articles/2913378-online-scheduling-setup-part-1-create-your-services.md): Learn the steps to setting up your Services within the Online Scheduling feature in 17hats
+- [Online Scheduling: Setup Part 2 - Availability Settings](http://help.17hats.com/en/articles/2913385-online-scheduling-setup-part-2-availability-settings.md): Learn the steps to setting up your Availability Settings, and get your Booking URL within the Online Scheduling feature in 17hats
+- [Online Scheduling: Booking Appointments](http://help.17hats.com/en/articles/3059282-online-scheduling-booking-appointments.md): Learn how your customers can book online with you.
+- [Online Scheduling: Embed Your Schedule](http://help.17hats.com/en/articles/4029311-online-scheduling-embed-your-schedule.md): Learn how to embed your Availability Schedules on a webpage
+- [Online Scheduling Troubleshooting](http://help.17hats.com/en/articles/3287818-online-scheduling-troubleshooting.md): Learn what settings to check if you're not able to see all available times.
+- [Online Scheduling: FAQs](http://help.17hats.com/en/articles/2921704-online-scheduling-faqs.md): Learn answers to common questions for the 17hats Online Scheduling Feature
+
+## Email
+
+- [Connecting Incoming and Outgoing Email with Office365](http://help.17hats.com/en/articles/7260648-connecting-incoming-and-outgoing-email-with-office365.md): Connect 17hats Incoming and Outgoing Email with Office365
+- [Use Business Name for Email Name](http://help.17hats.com/en/articles/3658420-use-business-name-for-email-name.md): Sent email can be displayed as coming from your Company Name instead of your personal name
+- [How to write emails with 17hats AI Assistant, Hattie Hats](http://help.17hats.com/en/articles/8096380-how-to-write-emails-with-17hats-ai-assistant-hattie-hats.md): Use Hattie, 17hats AI assistant, to help write and improve your emails inside 17hats.
+- [Adding Images From Dropbox](http://help.17hats.com/en/articles/3471270-adding-images-from-dropbox.md): Adjusting your public Dropbox Link to use in Emails, Signatures and Contracts.
+- [How does email correspondence work in 17hats?](http://help.17hats.com/en/articles/927448-how-does-email-correspondence-work-in-17hats.md): Learn what email messages are brought into your account, how often they come in, and where they are located in 17hats!
+- [Automatic Confirmation Emails that send from 17hats](http://help.17hats.com/en/articles/1967185-automatic-confirmation-emails-that-send-from-17hats.md): Learn more about the automated confirmation emails that send after a document is completed.
+- [Email Sorting](http://help.17hats.com/en/articles/1780619-email-sorting.md): Learn how to move emails from one project to another using Related Contacts!
+- [Email Read Receipts](http://help.17hats.com/en/articles/2478209-email-read-receipts.md): Track when your clients first read an email sent from 17hats
+- [Email Labels](http://help.17hats.com/en/articles/2499572-email-labels.md): A comprehensive list of all email labels in 17hats, and what each mean
+- [Syncing Multiple Email Addresses into 17hats](http://help.17hats.com/en/articles/847666-syncing-multiple-email-addresses-into-17hats.md): The different settings/steps to take for incoming and outgoing mail to sync from multiple email addresses
+- [How do I connect my CrazyDomains Email?](http://help.17hats.com/en/articles/3524926-how-do-i-connect-my-crazydomains-email.md): Settings for connecting to your CrazyDomains email account
+- [How do I connect my Google Gmail/GSuite Email?](http://help.17hats.com/en/articles/2829398-how-do-i-connect-my-google-gmail-gsuite-email.md): Specific settings to use and troubleshooting steps when connecting your Google Gmail email account within 17hats.
+- [How do I connect my Yahoo Email Account to 17hats?](http://help.17hats.com/en/articles/1650291-how-do-i-connect-my-yahoo-email-account-to-17hats.md): Settings for connecting your Yahoo Email Account to 17hats
+- [How do I connect my iCloud Email?](http://help.17hats.com/en/articles/1053365-how-do-i-connect-my-icloud-email.md)
+- [How do I connect my Yandex email account?](http://help.17hats.com/en/articles/1161377-how-do-i-connect-my-yandex-email-account.md)
+- [How do I connect my BlueHost email to 17hats?](http://help.17hats.com/en/articles/989608-how-do-i-connect-my-bluehost-email-to-17hats.md)
+- [How do I connect my Zoho Email Accounts to 17hats?](http://help.17hats.com/en/articles/1263497-how-do-i-connect-my-zoho-email-accounts-to-17hats.md)
+- [How do I connect my Sky Email Account to 17hats?](http://help.17hats.com/en/articles/1650260-how-do-i-connect-my-sky-email-account-to-17hats.md): Settings for connecting your Sky Email Account to 17hats
+- [How do I connect my SiteGround Email Account to 17hats?](http://help.17hats.com/en/articles/1650305-how-do-i-connect-my-siteground-email-account-to-17hats.md)
+- [How do I connect my HostGator Email?](http://help.17hats.com/en/articles/3275523-how-do-i-connect-my-hostgator-email.md): Find the settings needed to connect your HostGator Email within 17hats
+- [How To Sync Incoming Mail From POP And Exchange Accounts](http://help.17hats.com/en/articles/2810516-how-to-sync-incoming-mail-from-pop-and-exchange-accounts.md): A workaround for email providers that do not support IMAP
+- [SMTP Email Server Settings](http://help.17hats.com/en/articles/844657-smtp-email-server-settings.md): What settings should I use to connect my SMTP server to 17hats?
+- [SMTP servers: self signing certificates](http://help.17hats.com/en/articles/844660-smtp-servers-self-signing-certificates.md): Does 17hats support SMTP servers with self signing certificates?
+- [What are the benefits of using my own outgoing server \(SMTP\)?](http://help.17hats.com/en/articles/966491-what-are-the-benefits-of-using-my-own-outgoing-server-smtp.md)
+- [Using the 17hats Mail Server as your Outgoing Server](http://help.17hats.com/en/articles/1063489-using-the-17hats-mail-server-as-your-outgoing-server.md)
+- [How to test your Outgoing Emails in 17hats](http://help.17hats.com/en/articles/8113864-how-to-test-your-outgoing-emails-in-17hats.md): Check if your email connection is active, and whether you're getting flagged as spam
+- [Recommended Steps for Successful Email Delivery in 17hats](http://help.17hats.com/en/articles/1691196-recommended-steps-for-successful-email-delivery-in-17hats.md): Stay out of the SPAM folder with our tips to improve email deliverability
+- [Emails are not sending as the right address](http://help.17hats.com/en/articles/843946-emails-are-not-sending-as-the-right-address.md): What can I do if my emails are not "sending as" the email address I am expecting?
+- [How to ensure emails do not end up in spam](http://help.17hats.com/en/articles/865530-how-to-ensure-emails-do-not-end-up-in-spam.md)
+- [How do I filter for 17hats system notification emails in Microsoft 365?](http://help.17hats.com/en/articles/7241973-how-do-i-filter-for-17hats-system-notification-emails-in-microsoft-365.md): Automatically sort or forward your 17hats system notification emails
+- [Email Communication FAQs](http://help.17hats.com/en/articles/3110879-email-communication-faqs.md): Find the answers to some of the most common questions about Email Communication in 17hats
+- [What are the Different Email Types in 17hats?](http://help.17hats.com/en/articles/2950670-what-are-the-different-email-types-in-17hats.md): Find out what types of emails are within 17hats
+- [Moving Email Messages](http://help.17hats.com/en/articles/3152353-moving-email-messages.md): Learn how to move email messages between projects.
+- [17hats Customization Options for Emails, Contracts, and Email Signatures](http://help.17hats.com/en/articles/839258-17hats-customization-options-for-emails-contracts-and-email-signatures.md): Learn how you can customize the look of your emails, contracts, and email signatures using the existing formatting options within 17hats.
+- [HTML Customization for Emails & Contracts](http://help.17hats.com/en/articles/3210383-html-customization-for-emails-contracts.md): Learn how to change the font size, color, and other formatting options using HTML coding!
+- [Creating Linked Images within 17hats](http://help.17hats.com/en/articles/3210382-creating-linked-images-within-17hats.md): See how you can customize an image to link it to a website URL!
+- [Adding an existing email template into 17hats](http://help.17hats.com/en/articles/1008149-adding-an-existing-email-template-into-17hats.md): This article will explain how to add your current emails into 17hats so you can further automate your communication!
+- [Schedule an email to go out at a specific date and time.](http://help.17hats.com/en/articles/1228704-schedule-an-email-to-go-out-at-a-specific-date-and-time.md): You can schedule emails to go out at a specific date and time!
+- [Cancel a scheduled email from sending](http://help.17hats.com/en/articles/1914755-cancel-a-scheduled-email-from-sending.md): cancel/delete scheduled emails from sending
+- [How to save a draft email](http://help.17hats.com/en/articles/1228596-how-to-save-a-draft-email.md): You can create an email in a project and save it as a draft to send at a later time.
+- [Delete a draft email](http://help.17hats.com/en/articles/1914797-delete-a-draft-email.md): Delete a draft email you no longer want to use
+- [How do I add links to an email?](http://help.17hats.com/en/articles/927260-how-do-i-add-links-to-an-email.md)
+- [Can I send one email to multiple clients/leads?](http://help.17hats.com/en/articles/1042105-can-i-send-one-email-to-multiple-clients-leads.md): Can I send a mass email, or newsletter in 17hats?
+- [How do I filter for 17hats system notification emails in Google Gmail/Workspace?](http://help.17hats.com/en/articles/1029541-how-do-i-filter-for-17hats-system-notification-emails-in-google-gmail-workspace.md): Automatically sort or forward your 17hats system notification emails
+- [\<font\> HTML Tags](http://help.17hats.com/en/articles/879481-font-html-tags.md): Can I use \<font\> HTML tags in contracts and emails?
+- [Incoming Email Not Syncing](http://help.17hats.com/en/articles/948677-incoming-email-not-syncing.md): What to look for when emails don't appear to be coming into 17hats from your email provider's inbox
+
+## Workflows
+
+- [Workflows: Advanced vs Basic](http://help.17hats.com/en/articles/7432912-workflows-advanced-vs-basic.md): The difference between Advanced Workflows and Basic Workflows.
+- [How to Pause and Resume a Workflow](http://help.17hats.com/en/articles/13753480-how-to-pause-and-resume-a-workflow.md): You can pause an active Workflow at any time. Pausing a Workflow stops future steps from triggering while preserving the Workflow and its progress. This is helpful when a Project is temporarily on...
+- [Workflow Overview](http://help.17hats.com/en/articles/1046329-workflow-overview.md): What are Workflows? How do I create and implement them?
+- [Streamline Followup Emails](http://help.17hats.com/en/articles/2882744-streamline-followup-emails.md): Learn how to make following up with leads easier, and more streamlined.
+- [All About Workflows - Triggering Your Workflow](http://help.17hats.com/en/articles/1828264-all-about-workflows-triggering-your-workflow.md): A Workflow can be triggered automatically or manually, depending on your business needs.
+- [Workflows: To-Dos, Action Items, Pauses](http://help.17hats.com/en/articles/879587-workflows-to-dos-action-items-pauses.md): What’s the difference between a "To Do" item, and "Action" item, and a "Pause" item in the workflow?
+- [Workflows: Action Items](http://help.17hats.com/en/articles/1037910-workflows-action-items.md): Detailed breakdown for how to send an action item
+- [Workflow Notifications: Archived Projects](http://help.17hats.com/en/articles/879555-workflow-notifications-archived-projects.md): What happens to workflow notifications if I archive my project?
+- [Automatically Tag Contacts and Projects](http://help.17hats.com/en/articles/5910127-automatically-tag-contacts-and-projects.md): Automatically add or remove Project and Contact Tags through Workflows in 17hats.
+- [Workflows: Send Invoice Completion Triggers](http://help.17hats.com/en/articles/2165133-workflows-send-invoice-completion-triggers.md)
+- [Workflows: Send Quote Completion Triggers](http://help.17hats.com/en/articles/2165100-workflows-send-quote-completion-triggers.md): How to mark a quote step as "completed" based on the linked contract or linked invoice
+- [Workflows: Change Calendar](http://help.17hats.com/en/articles/2165044-workflows-change-calendar.md): How to use an action item in your workflow to change your project's calendar automatically
+- [Start/Stop Workflow Automation](http://help.17hats.com/en/articles/13928403-start-stop-workflow-automation.md): You can now automatically start or stop a Workflow by applying a Project Tag.
+- [Updating Workflow Templates](http://help.17hats.com/en/articles/879497-updating-workflow-templates.md): Learn what updates apply to activated workflows within projects and what changes you'll need to make manually.
+- [Workflow Base Dates](http://help.17hats.com/en/articles/925561-workflow-base-dates.md): Learn what the Workflow Base Date refers to and what it's automatically set as.
+- [What Are Workflow Phases?](http://help.17hats.com/en/articles/897542-what-are-workflow-phases.md)
+- [How to use a To-Do item in my workflow?](http://help.17hats.com/en/articles/928580-how-to-use-a-to-do-item-in-my-workflow.md)
+- [How to use a "Pause" item in my workflow?](http://help.17hats.com/en/articles/928579-how-to-use-a-pause-item-in-my-workflow.md)
+- [What is the difference between a Workflow and a Lifecycle?](http://help.17hats.com/en/articles/923760-what-is-the-difference-between-a-workflow-and-a-lifecycle.md)
+- [Can I mark items as complete in a workflow?](http://help.17hats.com/en/articles/843678-can-i-mark-items-as-complete-in-a-workflow.md): Mark upcoming items in a workflow as complete
+- [Why is the "Review" Button Not Working in my Workflow?](http://help.17hats.com/en/articles/1130865-why-is-the-review-button-not-working-in-my-workflow.md)
+- [What time are automated emails sent from within my workflows?](http://help.17hats.com/en/articles/897486-what-time-are-automated-emails-sent-from-within-my-workflows.md)
+
+## Bookkeeping
+
+- [17hats Invoicing & Bookkeeping](http://help.17hats.com/en/articles/849340-17hats-invoicing-bookkeeping.md): How does 17hats invoicing and bookkeeping work?
+- [How do I connect my bank account to 17hats?](http://help.17hats.com/en/articles/924615-how-do-i-connect-my-bank-account-to-17hats.md): Learn how to connect your bank or credit card account to 17hats to keep better track of your bookkeeping.
+- [How Do I Manually Add a Bank Account?](http://help.17hats.com/en/articles/879988-how-do-i-manually-add-a-bank-account.md): Learn how to add a bank account for cash or checking transactions
+- [How do I categorize payments deposited into my bank?](http://help.17hats.com/en/articles/924622-how-do-i-categorize-payments-deposited-into-my-bank.md)
+- [How Do Category Auto-Suggestions Work?](http://help.17hats.com/en/articles/927616-how-do-category-auto-suggestions-work.md)
+- [How should I handle gratuities in 17hats?](http://help.17hats.com/en/articles/927440-how-should-i-handle-gratuities-in-17hats.md)
+- [Importing Older Bank Transactions](http://help.17hats.com/en/articles/879929-importing-older-bank-transactions.md)
+- [Bank Account: Manual Refresh](http://help.17hats.com/en/articles/879921-bank-account-manual-refresh.md): How do I manually refresh my bank account in 17hats?
+- [Discounts: How to customize discounts, and view on your Profit & Loss report](http://help.17hats.com/en/articles/1052603-discounts-how-to-customize-discounts-and-view-on-your-profit-loss-report.md)
+- [How do I record a payment manually?](http://help.17hats.com/en/articles/924616-how-do-i-record-a-payment-manually.md)
+- [How Do I Manually Record Expenses?](http://help.17hats.com/en/articles/879995-how-do-i-manually-record-expenses.md)
+- [Image & PDF Viewer](http://help.17hats.com/en/articles/2286000-image-pdf-viewer.md): Previews of Images/PDFs in 17hats + Receipts for Transactions
+- [Credit Card and ACH Processing Fees in 17hats Bookkeeping with Stripe](http://help.17hats.com/en/articles/11498904-credit-card-and-ach-processing-fees-in-17hats-bookkeeping-with-stripe.md): Learn about credit card and ACH processing fees in 17hats Bookkeeping with Stripe
+- [How do I connect my Barclays UK Bank account to 17hats?](http://help.17hats.com/en/articles/879476-how-do-i-connect-my-barclays-uk-bank-account-to-17hats.md)
+- [What is the Profit and Loss report in 17hats?](http://help.17hats.com/en/articles/924603-what-is-the-profit-and-loss-report-in-17hats.md)
+- [Sales Tax Report](http://help.17hats.com/en/articles/924623-sales-tax-report.md)
+- [Aged Receivables Report](http://help.17hats.com/en/articles/924556-aged-receivables-report.md)
+- [Upcoming Receivables Report](http://help.17hats.com/en/articles/924557-upcoming-receivables-report.md)
+- [Export your Profit and Loss Report as a CSV File](http://help.17hats.com/en/articles/9050472-export-your-profit-and-loss-report-as-a-csv-file.md): Learn how to export your Profit and Loss Report from 17hats Bookkeeping as a spreadsheet
+- [Export your Aged Receivables Report as a CSV File](http://help.17hats.com/en/articles/9554226-export-your-aged-receivables-report-as-a-csv-file.md): Learn how to export your Aged Receivables Report from 17hats Bookkeeping as a spreadsheet
+- [Export your Sales Tax Report as a CSV File](http://help.17hats.com/en/articles/9554242-export-your-sales-tax-report-as-a-csv-file.md): Learn how to export your Sales Tax Report from 17hats Bookkeeping as a spreadsheet
+- [MFA 403 Error](http://help.17hats.com/en/articles/843704-mfa-403-error.md): What does MFA 403 error mean when I try to connect my bank?
+- [Connecting to a bank: Error Code 192](http://help.17hats.com/en/articles/843173-connecting-to-a-bank-error-code-192.md): What does Error Code 192 mean when trying to connect my bank?
+- [Connect Key Bank to 17hats](http://help.17hats.com/en/articles/843578-connect-key-bank-to-17hats.md): What do I do if I'm having trouble connecting to Key Bank?
+- ["Your institution returned zero accounts associated with your login"?](http://help.17hats.com/en/articles/843568-your-institution-returned-zero-accounts-associated-with-your-login.md): What does it mean when I try to connect my bank and see "Your institution returned zero accounts associated with your login"?
+- [How can I rename my bank account?](http://help.17hats.com/en/articles/843582-how-can-i-rename-my-bank-account.md): Renaming a bank account that has already been added to 17hats
+- [Why is my bank not connecting or updating automatically?](http://help.17hats.com/en/articles/879915-why-is-my-bank-not-connecting-or-updating-automatically.md)
+- [How do I categorize bookkeeping transactions?](http://help.17hats.com/en/articles/924611-how-do-i-categorize-bookkeeping-transactions.md)
+- [How do I manage my payments?](http://help.17hats.com/en/articles/924368-how-do-i-manage-my-payments.md)
+- [How often are transactions imported from my linked bank account?](http://help.17hats.com/en/articles/927256-how-often-are-transactions-imported-from-my-linked-bank-account.md)
+- [How do I add custom bookkeeping categories?](http://help.17hats.com/en/articles/924612-how-do-i-add-custom-bookkeeping-categories.md)
+- [How do I create a HAR file?](http://help.17hats.com/en/articles/880321-how-do-i-create-a-har-file.md)
+- [How do I apply a bookkeeping transaction to an invoice?](http://help.17hats.com/en/articles/924610-how-do-i-apply-a-bookkeeping-transaction-to-an-invoice.md)
+- [What Happens If I Disconnect My Synced Bank Account?](http://help.17hats.com/en/articles/933992-what-happens-if-i-disconnect-my-synced-bank-account.md)
+- [Banking Passwords: Characters Accepted by 17hats](http://help.17hats.com/en/articles/879546-banking-passwords-characters-accepted-by-17hats.md): What characters can I use in my online banking password when connecting my bank to 17hats?
+
+## Documents
+
+- [How to void a document](http://help.17hats.com/en/articles/3967282-how-to-void-a-document.md)
+- [Global Header Image on Documents](http://help.17hats.com/en/articles/6698903-global-header-image-on-documents.md): Add a global header image to 17hats Documents
+- [Tipping](http://help.17hats.com/en/articles/3591193-tipping.md): Allow your clients to add a tip on your Invoice
+- [Automatic Payments for Payment Schedules](http://help.17hats.com/en/articles/5052370-automatic-payments-for-payment-schedules.md): Allow clients to be charged for Payment Schedules, automatically.
+- [Partial Payments on Invoices / Quotes](http://help.17hats.com/en/articles/6022653-partial-payments-on-invoices-quotes.md): This article will explain what the 'Disable Partial Payment' option does on Invoices
+- [Adding Images to Invoices and Quotes](http://help.17hats.com/en/articles/6192166-adding-images-to-invoices-and-quotes.md): Add images to the Products and Services included in Invoices and Quotes in 17hats.
+- [Invoice Options: Save Card Data](http://help.17hats.com/en/articles/4530767-invoice-options-save-card-data.md): Clients can save credit card information when paying an Invoice.
+- [Invoice Templates](http://help.17hats.com/en/articles/950108-invoice-templates.md): Learn how to build Invoice templates for future use!
+- [Invoice Options: Recurring Billing/Automatic Payments](http://help.17hats.com/en/articles/4260937-invoice-options-recurring-billing-automatic-payments.md): Allow client to automatically be charged for Recurring Invoices.
+- [Invoice Settings](http://help.17hats.com/en/articles/3116849-invoice-settings.md): Learn more about the header options within an Invoice
+- [How to Change an Invoice Number](http://help.17hats.com/en/articles/3149673-how-to-change-an-invoice-number.md): Learn how to customize or update your invoice number system
+- [How do I set automatic invoice reminders?](http://help.17hats.com/en/articles/879792-how-do-i-set-automatic-invoice-reminders.md)
+- [What time do Document reminders get sent?](http://help.17hats.com/en/articles/897480-what-time-do-document-reminders-get-sent.md)
+- [How do I send an invoice receipt?](http://help.17hats.com/en/articles/928591-how-do-i-send-an-invoice-receipt.md)
+- [Scheduled Payments](http://help.17hats.com/en/articles/2548662-scheduled-payments.md): How to add flexible scheduled payments to your invoices with a variety of customizable options.
+- [Recurring Invoices Vs. Payment Schedules](http://help.17hats.com/en/articles/1072575-recurring-invoices-vs-payment-schedules.md): What is the difference between a recurring invoice and an invoice with a payment schedule?
+- [How To: Setting Up Recurring Invoices](http://help.17hats.com/en/articles/2508194-how-to-setting-up-recurring-invoices.md): Building and sending recurring invoices is easy with 17hats!
+- [What time do recurring invoices send to my clients?](http://help.17hats.com/en/articles/897439-what-time-do-recurring-invoices-send-to-my-clients.md)
+- [How do I stop a recurring invoice from sending?](http://help.17hats.com/en/articles/1049833-how-do-i-stop-a-recurring-invoice-from-sending.md)
+- [Pay Invoices on Behalf of Your Clients](http://help.17hats.com/en/articles/1331543-pay-invoices-on-behalf-of-your-clients.md): Learn how to make payments to a client's 17hats Invoice yourself or how to have a client make a payment to an Invoice in person
+- [Processing Refunds inside 17hats](http://help.17hats.com/en/articles/12649453-processing-refunds-inside-17hats.md): Members may process refunds for their clients inside 17hats
+- [Quote Templates](http://help.17hats.com/en/articles/1698294-quote-templates.md): Learn how to create a Quote template to use in workflow templates or for any contact.
+- [Quote Options](http://help.17hats.com/en/articles/3116500-quote-options.md): Learn more about the header options within a Quote
+- [Combined Documents](http://help.17hats.com/en/articles/924358-combined-documents.md): Learn how to combine quotes, contracts, and invoices
+- [How Do I Manage Variable Pricing on Quotes?](http://help.17hats.com/en/articles/935049-how-do-i-manage-variable-pricing-on-quotes.md)
+- [Questionnaire Templates](http://help.17hats.com/en/articles/897456-questionnaire-templates.md): Learn how to create a questionnaire template to use in workflow templates or with any contact.
+- [Can my clients save their questionnaire and come back later?](http://help.17hats.com/en/articles/853136-can-my-clients-save-their-questionnaire-and-come-back-later.md)
+- [Answer Mapping in Questionnaires & Lead Capture Forms](http://help.17hats.com/en/articles/2545940-answer-mapping-in-questionnaires-lead-capture-forms.md): Discover how to automatically put data from your forms into your Contacts and Projects
+- [Contract Templates](http://help.17hats.com/en/articles/2350413-contract-templates.md): Learn how to create a Contract Template to use in workflows or with any contact.
+- [Can I add more signatures to my contracts?](http://help.17hats.com/en/articles/962028-can-i-add-more-signatures-to-my-contracts.md): Steps to adding additional names to be required signatures on 17hats contracts
+- [User and Account Owner Contract Signature Options](http://help.17hats.com/en/articles/2868505-user-and-account-owner-contract-signature-options.md): Learn whose name appears on Contracts in the signature section
+- [Are electronic signatures legally binding?](http://help.17hats.com/en/articles/927258-are-electronic-signatures-legally-binding.md)
+- [What is the Best Way to Send Contracts and Invoices to Related Contacts?](http://help.17hats.com/en/articles/934969-what-is-the-best-way-to-send-contracts-and-invoices-to-related-contacts.md): Learn how to send Contracts or Invoices to other contacts added to the project
+- [Back-to-back linking in the WYSIWYG editor](http://help.17hats.com/en/articles/3742873-back-to-back-linking-in-the-wysiwyg-editor.md): How to insert two links right next to each other when composing an email or writing a Contract
+- [How to Send a Document](http://help.17hats.com/en/articles/3250522-how-to-send-a-document.md): Learn how to Send a Quote, Contract, Invoice, Or Questionnaire
+- [Where do I find my documents?](http://help.17hats.com/en/articles/843596-where-do-i-find-my-documents.md)
+- [Viewing Document Activity](http://help.17hats.com/en/articles/849328-viewing-document-activity.md): Learn what activity you can see for each document type.
+- [How to Delete Documents in Bulk](http://help.17hats.com/en/articles/2966051-how-to-delete-documents-in-bulk.md): Learn how to delete quotes, contracts, and questionnaires in bulk!
+- [Quote & Invoice Line Item Settings](http://help.17hats.com/en/articles/3116928-quote-invoice-line-item-settings.md): What each term means and how to set it for your business!
+- [How do I see the Client View of my Form?](http://help.17hats.com/en/articles/797700-how-do-i-see-the-client-view-of-my-form.md)
+- [How to Save/Print to PDF?](http://help.17hats.com/en/articles/924369-how-to-save-print-to-pdf.md): This article will show you how you can save or print your 17hats documents as a PDF
+- [Document Display Titles](http://help.17hats.com/en/articles/2237475-document-display-titles.md): How to update the Display Title on Quotes, Contracts, Invoices, and Questionnaires
+- [Sending Multiple 17hats Documents in One Email](http://help.17hats.com/en/articles/1052657-sending-multiple-17hats-documents-in-one-email.md): How can I send more than one document to my clients?
+
+## Calendars
+
+- [How To Connect Your Google Calendar?](http://help.17hats.com/en/articles/966461-how-to-connect-your-google-calendar.md): Learn how to connect your Google Calendar
+- [Google Calendar Sync Explained](http://help.17hats.com/en/articles/7438269-google-calendar-sync-explained.md): How the two way sync between 17hats and Google Calendar works!
+- [How to Share a 17hats Calendar to other Calendar Softwares such as Apple Cal](http://help.17hats.com/en/articles/3117305-how-to-share-a-17hats-calendar-to-other-calendar-softwares-such-as-apple-cal.md): Easily create a link to your 17hats calendar and create a calendar subscription in your favorite calendar softwares.
+- [Creating a Calendar Event](http://help.17hats.com/en/articles/927438-creating-a-calendar-event.md): Learn how to add an event in 17hats & important information when creating the event.
+- [Recurring Events: Google & 17hats](http://help.17hats.com/en/articles/859378-recurring-events-google-17hats.md): Will deleting a single instance or a recurring event in my Google calendar automatically remove it from my 17hats calendar?
+- [Adding a Google Event to a Project](http://help.17hats.com/en/articles/3149102-adding-a-google-event-to-a-project.md): Learn how to link an event created within a Google calendar to a 17hats Project.
+- [Sync Google Calendars from multiple Google Calendar accounts](http://help.17hats.com/en/articles/853432-sync-google-calendars-from-multiple-google-calendar-accounts.md): Learn how to connect calendars from more than one Google Calendar account through a single Google Calendar connection
+- [How do I connect 17hats events to my Apple Calendar?](http://help.17hats.com/en/articles/927439-how-do-i-connect-17hats-events-to-my-apple-calendar.md): Learn how to see existing events in your Apple iCal/iCloud Calendar.
+- [Connect a Google Calendar to an Outlook Calendar Online](http://help.17hats.com/en/articles/1273006-connect-a-google-calendar-to-an-outlook-calendar-online.md): You can connect a Google calendar to an Outlook calendar so it syncs into 17hats
+- [How To: Connect Calendly to 17hats Through Google Calendar](http://help.17hats.com/en/articles/2499452-how-to-connect-calendly-to-17hats-through-google-calendar.md)
+- [Calendar: Create & sync new Google Calendar](http://help.17hats.com/en/articles/11003245-calendar-create-sync-new-google-calendar.md): How to create and sync new calendars from your Google Calendar account to 17hats
+- [Google Calendar Not Syncing](http://help.17hats.com/en/articles/844570-google-calendar-not-syncing.md): What can I do if my Google Calendar is not syncing?
+- [How to Change a Connected Google Calendar](http://help.17hats.com/en/articles/3149448-how-to-change-a-connected-google-calendar.md): Learn how to connect a new Google Calendar account without losing previous event details
+- [How do I color-code my project dates on the Calendar?](http://help.17hats.com/en/articles/1854083-how-do-i-color-code-my-project-dates-on-the-calendar.md): We'll show you how to set up your calendars so that Lead and Client project dates can appear in different colors.
+- [Why am I seeing a date conflict?](http://help.17hats.com/en/articles/844751-why-am-i-seeing-a-date-conflict.md): How 17hats alerts you of conflicting events
+- [Why are calendar event times different between 17hats and Google?](http://help.17hats.com/en/articles/934805-why-are-calendar-event-times-different-between-17hats-and-google.md): Steps to ensuring your timezone is correct in 17hats
+- [Are "To Do" items synced to my Google Calendar?](http://help.17hats.com/en/articles/927254-are-to-do-items-synced-to-my-google-calendar.md)
+- [Why are deleted Google events still appearing in 17hats?](http://help.17hats.com/en/articles/934224-why-are-deleted-google-events-still-appearing-in-17hats.md)
+
+## Contacts
+
+- [Referral Source Reporting in 17hats](http://help.17hats.com/en/articles/8178404-referral-source-reporting-in-17hats.md): Track Referral Sources inside 17hats on Standard and Premier Membership Levels.
+- [17hats Contact Types](http://help.17hats.com/en/articles/924376-17hats-contact-types.md): Learn about the different contact types you can apply to customers contact records
+- [Related Contacts](http://help.17hats.com/en/articles/934803-related-contacts.md): Learn more about working with other Contacts related to your Projects
+- [Contacts Tags](http://help.17hats.com/en/articles/1769360-contacts-tags.md): Learn how to create, add, and find tags for your contact
+- [How do I manually add a contact?](http://help.17hats.com/en/articles/924374-how-do-i-manually-add-a-contact.md)
+- [How do I import a CSV file of Contacts and Projects?](http://help.17hats.com/en/articles/934801-how-do-i-import-a-csv-file-of-contacts-and-projects.md): How to set up and import your Contacts and Projects into 17hats!
+- [How do I export my contact list?](http://help.17hats.com/en/articles/843725-how-do-i-export-my-contact-list.md): Learn the two options to export your contacts out of 17hats
+- [How To Export Contacts from Google](http://help.17hats.com/en/articles/2531364-how-to-export-contacts-from-google.md): Learn how to easily export your contacts from Google and upload them into 17hats
+- [New Leads vs. Active Leads](http://help.17hats.com/en/articles/2625550-new-leads-vs-active-leads.md): When do "New" leads move to "Active" leads?
+- [When do Hot Leads automatically turn into Clients?](http://help.17hats.com/en/articles/977936-when-do-hot-leads-automatically-turn-into-clients.md)
+- [Changing a Lead to a Client](http://help.17hats.com/en/articles/879529-changing-a-lead-to-a-client.md): How to change a lead into a client \(automatically and manually\)?
+- [Profile Images for Contacts](http://help.17hats.com/en/articles/924377-profile-images-for-contacts.md)
+- [How do I allow my clients to add related contacts through questionnaires?](http://help.17hats.com/en/articles/924366-how-do-i-allow-my-clients-to-add-related-contacts-through-questionnaires.md)
+
+## Projects
+
+- [How to Apply Workflows to Projects in Bulk](http://help.17hats.com/en/articles/3760752-how-to-apply-workflows-to-projects-in-bulk.md)
+- [How to Add/Remove Tags in Bulk](http://help.17hats.com/en/articles/3760729-how-to-add-remove-tags-in-bulk.md)
+- [Projects Vs. Contacts](http://help.17hats.com/en/articles/879690-projects-vs-contacts.md): What is the difference between a project and a contact?
+- [How to Archive Projects in Bulk](http://help.17hats.com/en/articles/6891071-how-to-archive-projects-in-bulk.md): Learn how to archive projects in bulk!
+- [How do I navigate the "Project Overview" screen?](http://help.17hats.com/en/articles/928568-how-do-i-navigate-the-project-overview-screen.md): What is and how do I navigate my contacts Project Overview screen?
+- [How Are Projects Sorted?](http://help.17hats.com/en/articles/927641-how-are-projects-sorted.md)
+- [Archiving Projects: Calendar Dates](http://help.17hats.com/en/articles/879660-archiving-projects-calendar-dates.md): Will my calendar dates still show on my calendar if I archive a project?
+- [How to Assign Projects Using Tags](http://help.17hats.com/en/articles/2952802-how-to-assign-projects-using-tags.md): Learn how tags can organize projects by users, vendors, or other members of your business.
+- [Projects vs. Lifecycle vs. Workflows](http://help.17hats.com/en/articles/1052884-projects-vs-lifecycle-vs-workflows.md)
+- [How to Delete Projects in Bulk](http://help.17hats.com/en/articles/2965836-how-to-delete-projects-in-bulk.md): Learn how to delete or archive projects in bulk!
+- [How do I mark a project as complete?](http://help.17hats.com/en/articles/927255-how-do-i-mark-a-project-as-complete.md)
+- [How do I archive a Project or Contact in 17hats?](http://help.17hats.com/en/articles/879747-how-do-i-archive-a-project-or-contact-in-17hats.md): How to archive, and what happens when you do
+- [Move Projects between Contact Records](http://help.17hats.com/en/articles/2813332-move-projects-between-contact-records.md): Learn the steps and limitations when moving projects between contact records within your 17hats account
+- [Project Tags](http://help.17hats.com/en/articles/1769384-project-tags.md): Learn how to create, add, and find tags for projects
+- [How can I bill for and apply gift certificates?](http://help.17hats.com/en/articles/1388699-how-can-i-bill-for-and-apply-gift-certificates.md): How can you leave a credit for a Gift Certificate/Gift Card Recipient?
+
+## Templates
+
+- [How to Create & Manage Document & Email Templates](http://help.17hats.com/en/articles/879803-how-to-create-manage-document-email-templates.md): Learn how to create & manage reusable email and document templates!
+- [17hats Marketplace](http://help.17hats.com/en/articles/840250-17hats-marketplace.md): Learn where to buy, install, and edit purchased templates, workflows and online scheduling services
+- [Template Sharing](http://help.17hats.com/en/articles/2551565-template-sharing.md): Learn how to set-up and share workflow, email, and other document templates
+- [If/Then Questions in Questionnaires](http://help.17hats.com/en/articles/4755373-if-then-questions-in-questionnaires.md)
+- [How Do I Create Custom Email Templates?](http://help.17hats.com/en/articles/879821-how-do-i-create-custom-email-templates.md)
+- [Adding Contract Templates to 17hats](http://help.17hats.com/en/articles/879490-adding-contract-templates-to-17hats.md): Can I import or upload my contracts into 17hats?
+
+## Mobile
+
+- [The 17hats Mobile App](http://help.17hats.com/en/articles/3152558-the-17hats-mobile-app.md): Learn more about the mobile app and its functionality
+- [How to view a calendar month on Mobile](http://help.17hats.com/en/articles/3152624-how-to-view-a-calendar-month-on-mobile.md): Learn how to see the month view on your mobile device
+
+## Multi-User
+
+- [Working with Users in 17hats](http://help.17hats.com/en/articles/2968814-working-with-users-in-17hats.md): Learn what happens when adding users to your account and best practices
+- [Users - Getting Started and Setting Permissions](http://help.17hats.com/en/articles/840254-users-getting-started-and-setting-permissions.md): What you need to know about Multi-User settings & permissions
+- [Multi User Email Settings](http://help.17hats.com/en/articles/1063723-multi-user-email-settings.md): Incoming and Outgoing Email Settings for Multi-User
+- [Multi-User Calendars](http://help.17hats.com/en/articles/2456734-multi-user-calendars.md): Calendar permissions, settings and FAQs for Multi-User
+- [Deleting Users](http://help.17hats.com/en/articles/3199488-deleting-users.md): Learn how to properly delete a user from your account, and what happens after the user has been removed.
+- [Sharing outside links between users in 17hats](http://help.17hats.com/en/articles/1795997-sharing-outside-links-between-users-in-17hats.md): This article explains the steps to link a shared document within the notes tab of your project, so that more than 1 user can access it
+- [Multi User Email Settings: Using the 17hats Mail Server](http://help.17hats.com/en/articles/1063708-multi-user-email-settings-using-the-17hats-mail-server.md): How to send and receive email replies from different email addresses within 17hats
+- [Multi-User Email Settings: Using Your Own Outgoing Server](http://help.17hats.com/en/articles/1063705-multi-user-email-settings-using-your-own-outgoing-server.md)
+- [Users & Office365](http://help.17hats.com/en/articles/3193180-users-office365.md): Learn how to send messages with multi-users and Office365
+
+## Online Payment Options
+
+- [Stripe Payments](http://help.17hats.com/en/articles/6418020-stripe-payments.md): Take online payments using Stripe
+- [Enable Apple Pay using 17hats Payments](http://help.17hats.com/en/articles/6759842-enable-apple-pay-using-17hats-payments.md): Allow your clients to pay their invoices via Apple Pay with 17hats Payments
+- [Enable Google Pay using 17hats Payments](http://help.17hats.com/en/articles/6759877-enable-google-pay-using-17hats-payments.md)
+- [\[legacy\] Using Stripe for Online Payments](http://help.17hats.com/en/articles/3162740-legacy-using-stripe-for-online-payments.md): See what happens when using Stripe for online payments.
+- [Authorize.net Error](http://help.17hats.com/en/articles/859364-authorize-net-error.md): What if I receive an error message when trying to pay an invoice with Authorize.net?
+- [Selecting a Location \(Square\)](http://help.17hats.com/en/articles/924618-selecting-a-location-square.md)
+- [Accept ACH payments through 17hats](http://help.17hats.com/en/articles/843846-accept-ach-payments-through-17hats.md): How do I accept ACH payments through 17hats?
+- [Enable Link using 17hats Payments](http://help.17hats.com/en/articles/8269893-enable-link-using-17hats-payments.md)
+
+## Integrations
+
+- [Does 17hats integrate with Xero?](http://help.17hats.com/en/articles/1979915-does-17hats-integrate-with-xero.md)
+- [Disruptor Marketing Integration](http://help.17hats.com/en/articles/9143196-disruptor-marketing-integration.md)
+- [Zapier Integration](http://help.17hats.com/en/articles/2761371-zapier-integration.md): Learn answers to common questions regarding our Zapier Integration, and see our beginners guide to learning their platform
+- [Sending New Lead Email Notifications to Additional Email Addresses](http://help.17hats.com/en/articles/2978670-sending-new-lead-email-notifications-to-additional-email-addresses.md): Steps on using Zapier to send New Lead notifications to additional email addresses
+- [Zapier - 17hats and MailChimp](http://help.17hats.com/en/articles/2978508-zapier-17hats-and-mailchimp.md): Steps on using Zapier to sync 17hats to MailChimp
+- [Fundy Designer Integration](http://help.17hats.com/en/articles/2615281-fundy-designer-integration.md): Learn how to import your Fundy Orders directly into 17hats
+- [ProSelect Integration](http://help.17hats.com/en/articles/2701035-proselect-integration.md): Learn how to import your ProSelect Orders directly into 17hats
+- [ShootProof Invoice Creation](http://help.17hats.com/en/articles/859349-shootproof-invoice-creation.md): Why is ShootProof creating invoices under one person's name in 17hats rather than creating a different contact for each order?
+- [How do ShootProof Orders work?](http://help.17hats.com/en/articles/844723-how-do-shootproof-orders-work.md): Should each new ShootProof order for an existing contact create a new project?
+- [How Do I Integrate With ShootProof?](http://help.17hats.com/en/articles/934807-how-do-i-integrate-with-shootproof.md)
+- [17hats: QuickBooks Online Integration](http://help.17hats.com/en/articles/859661-17hats-quickbooks-online-integration.md): Sync Invoices created in 17hats to QuickBooks Online
+- [How do I export my 17hats Bookkeeping to QuickBooks Desktop?](http://help.17hats.com/en/articles/879841-how-do-i-export-my-17hats-bookkeeping-to-quickbooks-desktop.md)
+- [Quickbooks Warning Messages](http://help.17hats.com/en/articles/840256-quickbooks-warning-messages.md): Why did I get a warning message when trying to sync my invoices to Quickbooks Online?
+- [Quickbooks Self Employed Version](http://help.17hats.com/en/articles/879743-quickbooks-self-employed-version.md): Can I use 17hats with the Quickbooks Self Employed Version?
+- [Invoice Payments: Undeposited Funds \(Quickbooks Online\)](http://help.17hats.com/en/articles/861483-invoice-payments-undeposited-funds-quickbooks-online.md): Why do synced invoices from 17hats show up under "Undeposited Funds" in Quickbooks Online?
+- [N-Vu Integration - How it Works](http://help.17hats.com/en/articles/4252909-n-vu-integration-how-it-works.md)
+- [N-Vu Integration - Getting Started](http://help.17hats.com/en/articles/4260625-n-vu-integration-getting-started.md): Connect your N-Vu account to your 17hats account
+- [Review Zoom Web Settings](http://help.17hats.com/en/articles/6971507-review-zoom-web-settings.md): Generate one-click-join meeting links, and more!
+
+## Pipeline
+
+- [17hats Pipelines Overview](http://help.17hats.com/en/articles/9764837-17hats-pipelines-overview.md): Start building Pipelines in 17hats with this overview
+
+## Texting 
+
+- [Opt In for Text Messages](http://help.17hats.com/en/articles/10535403-opt-in-for-text-messages.md): How your 17hats Contacts can opt in to receive text messages from your business.
+- [Troubleshooting Texting Brand & Campaign Rejection Reasons](http://help.17hats.com/en/articles/11973656-troubleshooting-texting-brand-campaign-rejection-reasons.md): This articles covers the two common rejection reasons and how to fix them.
+- [Getting Started with Texting in 17hats](http://help.17hats.com/en/articles/11973951-getting-started-with-texting-in-17hats.md): Texting Setup Process in 17hats
+- [Texting in Multiple 17hats Brands](http://help.17hats.com/en/articles/11974185-texting-in-multiple-17hats-brands.md): How to setup texting in 17hats Brands
+- [Understanding Message Fragments in 17hats Texting](http://help.17hats.com/en/articles/11974222-understanding-message-fragments-in-17hats-texting.md): How text messages are calculated, and how they impact your monthly texting package.
+- [How to Cancel Texting](http://help.17hats.com/en/articles/12806627-how-to-cancel-texting.md): Cancelling 17hats SMS Texting
+- [Getting Started with SMS Texting in 17hats \(For Canadian Members 🇨🇦 \)](http://help.17hats.com/en/articles/12883748-getting-started-with-sms-texting-in-17hats-for-canadian-members.md): This guide explains how Canadian businesses can successfully register their brand and begin SMS texting through 17hats.
+
+## Tracking Keys for Online Scheduling and Lead Capture Forms
+
+- [Google Analytics for 17hats Online Scheduling and Lead Capture Forms](http://help.17hats.com/en/articles/14367924-google-analytics-for-17hats-online-scheduling-and-lead-capture-forms.md): Now you can add your Google Analytics Tracking Keys inside your 17hats Lead Capture Forms and Online Scheduling Service to gain further insight.
+- [Using Google Tag Manager with 17hats Lead Capture Forms and Online Scheduling](http://help.17hats.com/en/articles/15544660-using-google-tag-manager-with-17hats-lead-capture-forms-and-online-scheduling.md): Connect Google Tag Manager to your 17hats Lead Capture Forms and Online Scheduling Services.
