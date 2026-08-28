@@ -11,6 +11,17 @@ description: '17hats is an all-in-one CRM and business-management platform for s
   API reference, or machine-readable specification; its only documented programmatic
   surface is an account-level API key issued from Account Settings > Integrations that
   authenticates its Zapier app, which exposes contact triggers and actions only.'
+deliveryModel:
+  model: saas
+  open_source: false
+  commercial: true
+  callable_host: false
+  label: Hosted service · you call their endpoint
+  confidence: medium
+  source:
+  - pricing
+  generated: '2026-08-28'
+  method: derived
 image: https://cdn.prod.website-files.com/5fb453e0437ba3e5108c7389/63409b6c8c1d69fa92f3339b_17hats-SocialShare-2022-HomePage.png
 url: https://raw.githubusercontent.com/api-evangelist/17hats/refs/heads/main/apis.yml
 x-type: company
