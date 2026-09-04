@@ -22,6 +22,20 @@ deliveryModel:
   - pricing
   generated: '2026-08-28'
   method: derived
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  probe_state: gated
+  source:
+  - authentication
+  - security
+  generated: '2026-09-03'
+  method: derived
 image: https://cdn.prod.website-files.com/5fb453e0437ba3e5108c7389/63409b6c8c1d69fa92f3339b_17hats-SocialShare-2022-HomePage.png
 url: https://raw.githubusercontent.com/api-evangelist/17hats/refs/heads/main/apis.yml
 x-type: company
