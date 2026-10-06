@@ -42,7 +42,7 @@ x-type: company
 x-source: harvest:secondary-market
 specificationVersion: '0.23'
 created: '2026-08-05'
-modified: '2026-08-05'
+modified: '2026-10-06'
 tags:
 - Company
 - CRM
@@ -71,6 +71,8 @@ maintainers:
 - FN: APIs.json
   email: info@apis.io
 common:
+- url: https://blog.17hats.com/feed/
+  type: BlogRSS
 - type: VulnerabilityDisclosure
   url: security/17hats-vulnerability-disclosure.yml
 - type: Security
