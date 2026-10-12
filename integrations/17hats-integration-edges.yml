@@ -1,0 +1,424 @@
+generated: '2026-10-12'
+method: searched
+source:
+- https://zapier.com/apps/17hats/integrations
+checked:
+- https://composio.dev/toolkits/17hats
+- https://monid.ai/tools/17hats
+- https://n8n.io/integrations/17hats/
+- https://zapier.com/apps/17hats/integrations
+summary: null
+marketplace_apps:
+- marketplace: zapier
+  channel: ipaas-listing
+  app: 17hats
+  url: https://zapier.com/apps/17hats/integrations
+  external_url: https://www.17hats.com/
+  partner_tier: BRONZE
+  triggers:
+  - key: contactHook
+    label: New Contact
+  - key: contactUpdate
+    label: Updated Contact
+  actions:
+  - key: contactCreate
+    label: Create Contact
+  - key: contactUpdate
+    label: Update Contact
+  searches:
+  - key: contactSearch
+    label: Search Contact
+edges:
+- partner_name: Mailchimp
+  partner: mailchimp
+  partner_match: name-exact
+  partner_candidate: null
+  type: marketplace
+  marketplace: zapier
+  channel: ipaas-usage
+  evidence: https://zapier.com/apps/17hats/integrations/mailchimp
+  direction: third-party
+  category: Marketing Automation
+  partner_url: https://mailchimp.com/
+- partner_name: Flodesk
+  partner: null
+  partner_match: null
+  partner_candidate: null
+  type: marketplace
+  marketplace: zapier
+  channel: ipaas-usage
+  evidence: https://zapier.com/apps/17hats/integrations/flodesk
+  direction: third-party
+  category: Email Newsletters
+  partner_url: https://flodesk.com/
+- partner_name: Acuity Scheduling
+  partner: acuity-scheduling
+  partner_match: domain
+  partner_candidate: null
+  type: marketplace
+  marketplace: zapier
+  channel: ipaas-usage
+  evidence: https://zapier.com/apps/17hats/integrations/acuity-scheduling
+  direction: third-party
+  category: Scheduling & Booking
+  partner_url: https://acuityscheduling.com/?utm_source=zapier.com&utm_medium=referral&utm_campaign=integration-page
+- partner_name: Google Contacts
+  partner: null
+  partner_match: null
+  partner_candidate: null
+  type: marketplace
+  marketplace: zapier
+  channel: ipaas-usage
+  evidence: https://zapier.com/apps/17hats/integrations/google-contacts
+  direction: third-party
+  category: Contact Management
+  partner_url: https://www.google.com/contacts/
+- partner_name: Squarespace Forms
+  partner: squarespace
+  partner_match: domain
+  partner_candidate: null
+  type: marketplace
+  marketplace: zapier
+  channel: ipaas-usage
+  evidence: https://zapier.com/apps/17hats/integrations/squarespace-forms
+  direction: third-party
+  category: Forms & Surveys
+  partner_url: https://www.squarespace.com/
+- partner_name: ActiveCampaign
+  partner: activecampaign
+  partner_match: domain
+  partner_candidate: null
+  type: marketplace
+  marketplace: zapier
+  channel: ipaas-usage
+  evidence: https://zapier.com/apps/17hats/integrations/activecampaign
+  direction: third-party
+  category: Marketing Automation
+  partner_url: https://www.activecampaign.com/?utm_source=unpaid_syndication_website&utm_medium=referral&utm_campaign=zapier_listing
+- partner_name: Airtable
+  partner: airtable
+  partner_match: domain
+  partner_candidate: null
+  type: marketplace
+  marketplace: zapier
+  channel: ipaas-usage
+  evidence: https://zapier.com/apps/17hats/integrations/airtable
+  direction: third-party
+  category: Databases
+  partner_url: https://airtable.com/
+- partner_name: MailerLite
+  partner: mailerlite
+  partner_match: domain
+  partner_candidate: null
+  type: marketplace
+  marketplace: zapier
+  channel: ipaas-usage
+  evidence: https://zapier.com/apps/17hats/integrations/mailerlite
+  direction: third-party
+  category: Marketing Automation
+  partner_url: https://www.mailerlite.com/?utm_source=zapier&utm_medium=partner&utm_campaign=profile&utm_term=learn_more&utm_content=integrations
+- partner_name: Google Ads
+  partner: google-ads
+  partner_match: name-exact
+  partner_candidate: null
+  type: marketplace
+  marketplace: zapier
+  channel: ipaas-usage
+  evidence: https://zapier.com/apps/17hats/integrations/google-ads
+  direction: third-party
+  category: Ads & Conversion
+  partner_url: https://ads.google.com/
+- partner_name: Square
+  partner: square
+  partner_match: domain
+  partner_candidate: null
+  type: marketplace
+  marketplace: zapier
+  channel: ipaas-usage
+  evidence: https://zapier.com/apps/17hats/integrations/square
+  direction: third-party
+  category: eCommerce
+  partner_url: https://squareup.com/t/cmtp_performance/pr_developers/d_partnerships/p_zapier/?route=
+- partner_name: Facebook Lead Ads
+  partner: facebook-lead-ads
+  partner_match: name-exact
+  partner_candidate: null
+  type: marketplace
+  marketplace: zapier
+  channel: ipaas-usage
+  evidence: https://zapier.com/apps/17hats/integrations/facebook-lead-ads
+  direction: third-party
+  category: Ads & Conversion
+  partner_url: https://www.facebook.com/business/ads/lead-ads
+- partner_name: Facebook Conversions
+  partner: null
+  partner_match: null
+  partner_candidate: null
+  type: marketplace
+  marketplace: zapier
+  channel: ipaas-usage
+  evidence: https://zapier.com/apps/17hats/integrations/facebook-conversions
+  direction: third-party
+  category: Ads & Conversion
+  partner_url: https://developers.facebook.com/docs/marketing-api/server-side-api/guides/zapier-integration
+- partner_name: Gmail
+  partner: gmail
+  partner_match: name-exact
+  partner_candidate: null
+  type: marketplace
+  marketplace: zapier
+  channel: ipaas-usage
+  evidence: https://zapier.com/apps/17hats/integrations/gmail
+  direction: third-party
+  category: Email
+  partner_url: https://mail.google.com/
+- partner_name: Constant Contact
+  partner: constant-contact
+  partner_match: domain
+  partner_candidate: null
+  type: marketplace
+  marketplace: zapier
+  channel: ipaas-usage
+  evidence: https://zapier.com/apps/17hats/integrations/constant-contact
+  direction: third-party
+  category: Email Newsletters
+  partner_url: http://www.constantcontact.com/signup.jsp?pn=zapier
+- partner_name: Typeform
+  partner: typeform
+  partner_match: domain
+  partner_candidate: null
+  type: marketplace
+  marketplace: zapier
+  channel: ipaas-usage
+  evidence: https://zapier.com/apps/17hats/integrations/typeform
+  direction: third-party
+  category: Forms & Surveys
+  partner_url: https://www.typeform.com/signup?utm_medium=referral&utm_source=zapier&utm_campaign=zapier_integration&utm_content=marketplace
+- partner_name: Notion
+  partner: notion
+  partner_match: name-exact
+  partner_candidate: null
+  type: marketplace
+  marketplace: zapier
+  channel: ipaas-usage
+  evidence: https://zapier.com/apps/17hats/integrations/notion
+  direction: third-party
+  category: Task Management
+  partner_url: https://www.notion.so/
+- partner_name: Wave
+  partner: wave-financial
+  partner_match: domain
+  partner_candidate: null
+  type: marketplace
+  marketplace: zapier
+  channel: ipaas-usage
+  evidence: https://zapier.com/apps/17hats/integrations/wave
+  direction: third-party
+  category: Accounting
+  partner_url: https://www.waveapps.com/
+- partner_name: Drip
+  partner: drip
+  partner_match: name-exact
+  partner_candidate: null
+  type: marketplace
+  marketplace: zapier
+  channel: ipaas-usage
+  evidence: https://zapier.com/apps/17hats/integrations/drip
+  direction: third-party
+  category: Drip Emails
+  partner_url: https://www.getdrip.com/
+- partner_name: Asana
+  partner: asana
+  partner_match: domain
+  partner_candidate: null
+  type: marketplace
+  marketplace: zapier
+  channel: ipaas-usage
+  evidence: https://zapier.com/apps/17hats/integrations/asana
+  direction: third-party
+  category: Project Management
+  partner_url: http://asana.com/
+- partner_name: Brevo
+  partner: brevo
+  partner_match: name-exact
+  partner_candidate: null
+  type: marketplace
+  marketplace: zapier
+  channel: ipaas-usage
+  evidence: https://zapier.com/apps/17hats/integrations/brevo
+  direction: third-party
+  category: Email Newsletters
+  partner_url: https://www.sendinblue.com/?utm_medium=plugin&utm_source=zapier
+- partner_name: Microsoft Excel
+  partner: null
+  partner_match: null
+  partner_candidate: zapier
+  type: marketplace
+  marketplace: zapier
+  channel: ipaas-usage
+  evidence: https://zapier.com/apps/17hats/integrations/excel
+  direction: third-party
+  category: Microsoft
+  partner_url: https://zapier.com/office.com
+- partner_name: Google Meet
+  partner: google-meet
+  partner_match: name-exact
+  partner_candidate: null
+  type: marketplace
+  marketplace: zapier
+  channel: ipaas-usage
+  evidence: https://zapier.com/apps/17hats/integrations/google-meet
+  direction: third-party
+  category: Google
+  partner_url: https://meet.google.com/
+- partner_name: Google Docs
+  partner: google-docs
+  partner_match: name-exact
+  partner_candidate: null
+  type: marketplace
+  marketplace: zapier
+  channel: ipaas-usage
+  evidence: https://zapier.com/apps/17hats/integrations/google-docs
+  direction: third-party
+  category: Documents
+  partner_url: http://google.com/
+- partner_name: WordPress
+  partner: wordpress
+  partner_match: domain
+  partner_candidate: null
+  type: marketplace
+  marketplace: zapier
+  channel: ipaas-usage
+  evidence: https://zapier.com/apps/17hats/integrations/wordpress
+  direction: third-party
+  category: Website Builders
+  partner_url: https://wordpress.org/
+- partner_name: FreshBooks
+  partner: freshbooks
+  partner_match: domain
+  partner_candidate: null
+  type: marketplace
+  marketplace: zapier
+  channel: ipaas-usage
+  evidence: https://zapier.com/apps/17hats/integrations/freshbooks
+  direction: third-party
+  category: Accounting
+  partner_url: https://www.freshbooks.com/?ref=10350
+- partner_name: Kit
+  partner: convertkit
+  partner_match: domain
+  partner_candidate: null
+  type: marketplace
+  marketplace: zapier
+  channel: ipaas-usage
+  evidence: https://zapier.com/apps/17hats/integrations/kit
+  direction: third-party
+  category: Drip Emails
+  partner_url: https://kit.com/
+- partner_name: CloudSpot
+  partner: null
+  partner_match: null
+  partner_candidate: null
+  type: marketplace
+  marketplace: zapier
+  channel: ipaas-usage
+  evidence: https://zapier.com/apps/17hats/integrations/cloudspot
+  direction: third-party
+  category: File Management & Storage
+  partner_url: https://cloudspot.io/
+- partner_name: Book Like A Boss
+  partner: null
+  partner_match: null
+  partner_candidate: null
+  type: marketplace
+  marketplace: zapier
+  channel: ipaas-usage
+  evidence: https://zapier.com/apps/17hats/integrations/book-like-a-boss
+  direction: third-party
+  category: Scheduling & Booking
+  partner_url: https://booklikeaboss.com/
+- partner_name: Textedly
+  partner: null
+  partner_match: null
+  partner_candidate: null
+  type: marketplace
+  marketplace: zapier
+  channel: ipaas-usage
+  evidence: https://zapier.com/apps/17hats/integrations/textedly
+  direction: third-party
+  category: Phone & SMS
+  partner_url: https://www.textedly.com/
+- partner_name: JustCall
+  partner: justcall
+  partner_match: domain
+  partner_candidate: null
+  type: marketplace
+  marketplace: zapier
+  channel: ipaas-usage
+  evidence: https://zapier.com/apps/17hats/integrations/justcall
+  direction: third-party
+  category: Phone & SMS
+  partner_url: https://justcall.io/integration/zapier/?utm_source=zapierintegrationmarketplace&utm_medium=integrationpartnerlisting&utm_campaign=integration
+templates:
+- title: Add new 17hats contacts to Mailchimp
+  url: https://zapier.com/apps/17hats/integrations/mailchimp/72750/add-new-17hats-contacts-to-mailchimp
+  apps:
+  - 17hats
+  - mailchimp
+- title: Create or update subscribers in Flodesk with new 17hats contacts
+  url: https://zapier.com/apps/17hats/integrations/flodesk/1014847/create-or-update-subscribers-in-flodesk-with-new-17hats-contacts
+  apps:
+  - 17hats
+  - flodesk
+- title: Create Google Sheets rows for new 17hats contacts
+  url: https://zapier.com/apps/17hats/integrations/google-sheets/1130447/create-google-sheets-rows-for-new-17hats-contacts
+  apps:
+  - 17hats
+  - google-sheets
+- title: Create new 17hats contacts from new Jotform submissions
+  url: https://zapier.com/apps/17hats/integrations/jotform/1754038/create-new-17hats-contacts-from-new-jotform-submissions
+  apps:
+  - jotform
+  - 17hats
+- title: Update new WooCommerce customers to 17hats
+  url: https://zapier.com/apps/email/integrations/woocommerce/48903/update-new-woocommerce-customers-to-17hats
+  apps:
+  - woocommerce
+  - 17hats
+  - email
+- title: Create or update Quo contacts for new 17hats contacts
+  url: https://zapier.com/apps/17hats/integrations/quo/1292400/create-or-update-quo-contacts-for-new-17hats-contacts
+  apps:
+  - 17hats
+  - quo
+- title: Create new 17hats contacts from new or updated rows in Google Sheets
+  url: https://zapier.com/apps/17hats/integrations/google-sheets/1599374/create-new-17hats-contacts-from-new-or-updated-rows-in-google-sheets
+  apps:
+  - google-sheets
+  - 17hats
+- title: Send funnel events to Facebook Conversions from 17hats
+  url: https://zapier.com/apps/17hats/integrations/facebook-conversions/1130106/send-funnel-events-to-facebook-conversions-from-17hats
+  apps:
+  - 17hats
+  - facebook-conversions
+- title: Send feedback requests to clients via Cruise Control when new projects are completed on 17Hats
+  url: https://zapier.com/apps/17hats/integrations/cruise-control/255604442/send-feedback-requests-to-clients-via-cruise-control-when-new-projects-are-completed-on-17hats
+  apps:
+  - 17hats
+  - cruise-control
+- title: Add new 17hats contacts to Kit as form subscribers
+  url: https://zapier.com/apps/17hats/integrations/kit/1759941/add-new-17hats-contacts-to-kit-as-form-subscribers
+  apps:
+  - 17hats
+  - kit
+- title: Create new 17hats contacts from new purchased Barks in Bark
+  url: https://zapier.com/apps/17hats/integrations/bark/1601575/create-new-17hats-contacts-from-new-purchased-barks-in-bark
+  apps:
+  - bark
+  - 17hats
+- title: Create contacts in 17hats from new Calendly invitees
+  url: https://zapier.com/apps/17hats/integrations/calendly/1225523/create-contacts-in-17hats-from-new-calendly-invitees
+  apps:
+  - calendly
+  - 17hats
+template_total: 981
