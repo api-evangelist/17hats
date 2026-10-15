@@ -6,6 +6,7 @@ checked:
 - https://composio.dev/toolkits/17hats
 - https://monid.ai/tools/17hats
 - https://n8n.io/integrations/17hats/
+- https://zapier.com/api/v4/apps/
 - https://zapier.com/apps/17hats/integrations
 summary: null
 marketplace_apps:
@@ -359,6 +360,31 @@ edges:
   direction: third-party
   category: Phone & SMS
   partner_url: https://justcall.io/integration/zapier/?utm_source=zapierintegrationmarketplace&utm_medium=integrationpartnerlisting&utm_campaign=integration
+- partner_name: Zapier
+  partner: zapier
+  partner_match: aggregator
+  type: marketplace
+  marketplace: zapier-directory
+  channel: ipaas-listing
+  relationship: ipaas-bridge
+  direction: third-party
+  evidence: https://zapier.com/apps/17hats/integrations
+  category: null
+  contract_reference:
+    register: Zapier app directory (zapier.com/api/v4/apps)
+    spec_file: null
+    role: ipaas-connector:zapier
+    registered_name: 17hats
+    matched_domain: 17hats.com
+    matched_by: domain
+    detected_by: sweep-workflow-automation.py
+    detected: '2026-10-15'
+    signal_note: one edge per (provider, platform); actions, triggers and usage counts are context, never read
+    app_slug: 17hats
+    beta: false
+    builder: unknown (not in the directory record)
+  detected_by: sweep-workflow-automation.py
+  first_seen: '2026-10-15'
 templates:
 - title: Add new 17hats contacts to Mailchimp
   url: https://zapier.com/apps/17hats/integrations/mailchimp/72750/add-new-17hats-contacts-to-mailchimp
