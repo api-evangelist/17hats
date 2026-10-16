@@ -2,6 +2,20 @@
   "repo": "17hats",
   "feeds": [
     {
+      "source": "https://blog.17hats.com/feed/",
+      "feed_url": "https://blog.17hats.com/feed/",
+      "title": "",
+      "saved": 3,
+      "method": "feed"
+    },
+    {
+      "source": "https://blog.17hats.com/",
+      "feed_url": "https://blog.17hats.com/feed/",
+      "title": "",
+      "saved": 0,
+      "method": "discovered"
+    },
+    {
       "source": "https://help.17hats.com/en/articles/3110556-what-is-17hats",
       "feed_url": "https://help.17hats.com/en/articles/3110556-what-is-17hats",
       "title": "",
@@ -9,6 +23,6 @@
       "method": "none"
     }
   ],
-  "post_count": 0,
-  "fetched": "2026-10-03T12:30:02Z"
+  "post_count": 3,
+  "fetched": "2026-10-10T13:15:00Z"
 }
