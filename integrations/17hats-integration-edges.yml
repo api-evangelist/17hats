@@ -8,6 +8,7 @@ checked:
 - https://n8n.io/integrations/17hats/
 - https://zapier.com/api/v4/apps/
 - https://zapier.com/apps/17hats/integrations
+- zoom/integrations/zoom-integration-edges.yml
 summary: null
 marketplace_apps:
 - marketplace: zapier
@@ -385,6 +386,23 @@ edges:
     builder: unknown (not in the directory record)
   detected_by: sweep-workflow-automation.py
   first_seen: '2026-10-15'
+- partner_name: Zoom (own)
+  partner: zoom
+  partner_match: mirror
+  mirror_match: domain
+  type: marketplace
+  relationship: platform-app
+  direction: third-party
+  channel: partner-built
+  marketplace: own
+  evidence: https://marketplace.zoom.us/apps/G-YZqKQyQ_WLeO7-zaQcdQ
+  mirror_of: zoom/integrations/zoom-integration-edges.yml
+  apps:
+  - 17hats
+  listing_count: 1
+  detected: '2026-10-18'
+  detected_by: mirror-platform-listings.py
+  category: Zoom app
 templates:
 - title: Add new 17hats contacts to Mailchimp
   url: https://zapier.com/apps/17hats/integrations/mailchimp/72750/add-new-17hats-contacts-to-mailchimp
