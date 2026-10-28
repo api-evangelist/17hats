@@ -64,5 +64,91 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-17hats is a company surfaced via the API Evangelist harvest backlog (source: secondary-market) and added to the network as a stub for full-pipeline profiling.
-- https://www.nasdaqprivatemarket.com/
+17hats is an all-in-one CRM and business-management platform for service-based small businesses and solopreneurs, built around the idea that a one-person business wears seventeen hats. The platform combines lead capture, client pipelines, contact and project management, online scheduling, quotes, contracts and e-signature, questionnaires, invoicing and online payments, bookkeeping, email and SMS texting, and workflow automation into a single subscription product. 17hats states it serves more than 25,000 business owners across 100+ industries, including photographers, designers, coaches, planners and other service providers. 17hats does not publish a public developer program, API reference, or machine-readable specification; its only documented programmatic surface is an account-level API key issued from Account Settings > Integrations that authenticates its Zapier app, which exposes contact triggers and actions only.
+
+**Areas:** Company · CRM · Small Business · Invoicing · Scheduling · Bookkeeping · Workflow Automation · Payments · Software-as-a-Service
+
+## 17hats on APIs.io
+
+Everything profiled for 17hats is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/17hats/](https://apis.io/providers/17hats/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (3)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [17Hats Authentication](https://apis.io/security/17hats/17hats-authentication/)
+- [17Hats Domain Security](https://apis.io/security/17hats/17hats-domain-security/)
+- [17Hats Vulnerability Disclosure](https://apis.io/security/17hats/17hats-vulnerability-disclosure/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.17hats.com/)
+- [Documentation](https://help.17hats.com/)
+- [Getting started](https://help.17hats.com/en/articles/3110556-what-is-17hats)
+- [Pricing](https://www.17hats.com/pricing)
+- [Sign up](https://www.17hats.com/sign-up)
+- [Support](https://help.17hats.com/)
+- [Blog](https://blog.17hats.com/)
+- [Security](https://www.17hats.com/security)
+- [Terms of service](https://www.17hats.com/terms-conditions)
+- [Privacy policy](https://www.17hats.com/privacy-policy)
+- [GitHub](https://github.com/17hats)
+
+## API Evangelist rating
+
+**Kin Score 24.9** — emerging · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 55.4 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 13.2 |
+| Developer ergonomics | 40.5 |
+| Access clarity | 44.7 |
+
+**Agent readiness 2.5** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | bearer (partial credit) |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 23.2** — Payments
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/17hats/](https://apis.io/providers/17hats/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for 17hats: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/17hats/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
